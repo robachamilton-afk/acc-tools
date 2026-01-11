@@ -301,6 +301,7 @@ See [docs/ACC_INTEGRATION.md](docs/ACC_INTEGRATION.md) for detailed integration 
 - **[ACC Integration](docs/ACC_INTEGRATION.md)** - ACC/Forge integration guide
 - **[Deployment Guide](docs/DEPLOYMENT.md)** - Production deployment
 - **[Monetization Strategy](docs/MONETIZATION.md)** - Pricing and tiers
+- **[Brand Style Guide](docs/BRAND_STYLE_GUIDE.md)** - MCE brand colors, typography, and design system
 
 ## Contributing
 

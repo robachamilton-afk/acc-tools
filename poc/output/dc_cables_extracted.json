@@ -1,0 +1,482 @@
+[
+  {
+    "name": "DC-Array-StringCable-4mm2",
+    "category": "Electrical > Cables > DC Cables",
+    "type": "DC String Cable",
+    "description": "PV1F 4mm\u00b2 cable black with red stripe for PV string connection, 1500V DC rated",
+    "specifications": {
+      "voltage_V": 1500,
+      "current_A": null,
+      "length_m": 3,
+      "conductor_size_mm2": 4,
+      "conductor_material": "Copper",
+      "installation_method": "In Air / String Harness",
+      "number_of_cores": 1,
+      "ampacity_A": null,
+      "voltage_drop_V": null,
+      "power_losses_W": null
+    },
+    "location": "PV String Harness",
+    "connectivity": {
+      "from": "PV Module",
+      "to": "String Combiner"
+    },
+    "confidence": 0.9
+  },
+  {
+    "name": "DC-Array-StringCable-6mm2",
+    "category": "Electrical > Cables > DC Cables",
+    "type": "DC String Cable",
+    "description": "PV1F 6mm\u00b2 cable black with red stripe for PV string connection, 1500V DC rated",
+    "specifications": {
+      "voltage_V": 1500,
+      "current_A": null,
+      "length_m": 1.9,
+      "conductor_size_mm2": 6,
+      "conductor_material": "Copper",
+      "installation_method": "In Air / String Harness",
+      "number_of_cores": 1,
+      "ampacity_A": null,
+      "voltage_drop_V": null,
+      "power_losses_W": null
+    },
+    "location": "PV String Harness",
+    "connectivity": {
+      "from": "PV Module",
+      "to": "String Combiner"
+    },
+    "confidence": 0.9
+  },
+  {
+    "name": "DC-Array-Block01-ArrayCable-95mm2",
+    "category": "Electrical > Cables > DC Cables",
+    "type": "DC Array Cable",
+    "description": "1.5 kV DC aluminium XLPE power cable, 1 core x 95 mm\u00b2, unarmoured, suitable for direct burial or conduit installation",
+    "specifications": {
+      "voltage_V": 1500,
+      "current_A": 162,
+      "length_m": null,
+      "conductor_size_mm2": 95,
+      "conductor_material": "Aluminum",
+      "installation_method": "Directly Buried / In Conduit",
+      "number_of_cores": 1,
+      "ampacity_A": 453,
+      "voltage_drop_V": null,
+      "power_losses_W": null
+    },
+    "location": "Block 1",
+    "connectivity": {
+      "from": "Combiner Box",
+      "to": "Inverter 1+2"
+    },
+    "confidence": 1.0
+  },
+  {
+    "name": "DC-Array-Block01-ArrayCable-185mm2",
+    "category": "Electrical > Cables > DC Cables",
+    "type": "DC Array Cable",
+    "description": "1.5 kV DC aluminium XLPE power cable, 1 core x 185 mm\u00b2, unarmoured, suitable for direct burial or conduit installation",
+    "specifications": {
+      "voltage_V": 1500,
+      "current_A": 162,
+      "length_m": null,
+      "conductor_size_mm2": 185,
+      "conductor_material": "Aluminum",
+      "installation_method": "Directly Buried / In Conduit",
+      "number_of_cores": 1,
+      "ampacity_A": 595,
+      "voltage_drop_V": null,
+      "power_losses_W": null
+    },
+    "location": "Block 1",
+    "connectivity": {
+      "from": "Combiner Box",
+      "to": "Inverter 1+2"
+    },
+    "confidence": 1.0
+  },
+  {
+    "name": "DC-Array-Block01-ArrayCable-300mm2",
+    "category": "Electrical > Cables > DC Cables",
+    "type": "DC Array Cable",
+    "description": "1.5 kV DC aluminium XLPE power cable, 1 core x 300 mm\u00b2, unarmoured, suitable for direct burial or conduit installation",
+    "specifications": {
+      "voltage_V": 1500,
+      "current_A": 162,
+      "length_m": null,
+      "conductor_size_mm2": 300,
+      "conductor_material": "Aluminum",
+      "installation_method": "Directly Buried / In Conduit",
+      "number_of_cores": 1,
+      "ampacity_A": 595,
+      "voltage_drop_V": null,
+      "power_losses_W": null
+    },
+    "location": "Block 1",
+    "connectivity": {
+      "from": "Combiner Box",
+      "to": "Inverter 1+2"
+    },
+    "confidence": 1.0
+  },
+  {
+    "name": "DC-Bus-BL02-01",
+    "category": "Electrical > Cables > DC Cables",
+    "type": "DC Bus Cable",
+    "description": "DC Bus cable for Block 2 Inverter 1+2, 1.15 kV DC, 2 cores of 1x300 mm\u00b2 aluminium XLPE cable, length varies per section",
+    "specifications": {
+      "voltage_V": 1150,
+      "current_A": 162,
+      "length_m": 280,
+      "conductor_size_mm2": 300,
+      "conductor_material": "Aluminum",
+      "installation_method": "In Conduit or Direct Burial (inferred)",
+      "number_of_cores": 2,
+      "ampacity_A": 272.41,
+      "voltage_drop_V": 1.243,
+      "power_losses_W": 27433.18
+    },
+    "location": "Block 2",
+    "connectivity": {
+      "from": "Combiner Box",
+      "to": "Inverter 1+2"
+    },
+    "confidence": 1.0
+  },
+  {
+    "name": "DC-Bus-BL03-01",
+    "category": "Electrical > Cables > DC Cables",
+    "type": "DC Bus Cable",
+    "description": "DC Bus cable for Block 3 Inverter 1+2, 1.15 kV DC, 2 cores of 1x300 mm\u00b2 aluminium XLPE cable, length varies per section",
+    "specifications": {
+      "voltage_V": 1150,
+      "current_A": 162,
+      "length_m": 158,
+      "conductor_size_mm2": 300,
+      "conductor_material": "Aluminum",
+      "installation_method": "In Conduit or Direct Burial (inferred)",
+      "number_of_cores": 2,
+      "ampacity_A": 272.41,
+      "voltage_drop_V": 0.792,
+      "power_losses_W": 16319.55
+    },
+    "location": "Block 3",
+    "connectivity": {
+      "from": "Combiner Box",
+      "to": "Inverter 1+2"
+    },
+    "confidence": 1.0
+  },
+  {
+    "name": "DC-Bus-BL04-01",
+    "category": "Electrical > Cables > DC Cables",
+    "type": "DC Bus Cable",
+    "description": "DC Bus cable for Block 4 Inverter 1, 1.15 kV DC, 2 cores of 1x300 mm\u00b2 aluminium XLPE cable, length varies per section",
+    "specifications": {
+      "voltage_V": 1150,
+      "current_A": 162,
+      "length_m": 87,
+      "conductor_size_mm2": 300,
+      "conductor_material": "Aluminum",
+      "installation_method": "In Conduit or Direct Burial (inferred)",
+      "number_of_cores": 2,
+      "ampacity_A": 272.41,
+      "voltage_drop_V": 0.672,
+      "power_losses_W": 4897.93
+    },
+    "location": "Block 4",
+    "connectivity": {
+      "from": "Combiner Box",
+      "to": "Inverter 1"
+    },
+    "confidence": 1.0
+  },
+  {
+    "name": "DC-Bus-BL05-01",
+    "category": "Electrical > Cables > DC Cables",
+    "type": "DC Bus Cable",
+    "description": "DC Bus cable for Block 5 Inverter 1+2, 1.15 kV DC, 2 cores of 1x300 mm\u00b2 aluminium XLPE cable, length varies per section",
+    "specifications": {
+      "voltage_V": 1150,
+      "current_A": 162,
+      "length_m": 272,
+      "conductor_size_mm2": 300,
+      "conductor_material": "Aluminum",
+      "installation_method": "In Conduit or Direct Burial (inferred)",
+      "number_of_cores": 2,
+      "ampacity_A": 272.41,
+      "voltage_drop_V": 1.03,
+      "power_losses_W": 26466.1
+    },
+    "location": "Block 5",
+    "connectivity": {
+      "from": "Combiner Box",
+      "to": "Inverter 1+2"
+    },
+    "confidence": 1.0
+  },
+  {
+    "name": "DC-Bus-BL06-01",
+    "category": "Electrical > Cables > DC Cables",
+    "type": "DC Bus Cable",
+    "description": "DC Bus cable for Block 6 Inverter 1+2, 1.15 kV DC, 2 cores of 1x300 mm\u00b2 aluminium XLPE cable, length varies per section",
+    "specifications": {
+      "voltage_V": 1150,
+      "current_A": 162,
+      "length_m": 212,
+      "conductor_size_mm2": 300,
+      "conductor_material": "Aluminum",
+      "installation_method": "In Conduit or Direct Burial (inferred)",
+      "number_of_cores": 2,
+      "ampacity_A": 272.41,
+      "voltage_drop_V": 0.815,
+      "power_losses_W": 19697.38
+    },
+    "location": "Block 6",
+    "connectivity": {
+      "from": "Combiner Box",
+      "to": "Inverter 1+2"
+    },
+    "confidence": 1.0
+  },
+  {
+    "name": "DC-Bus-BL07-01",
+    "category": "Electrical > Cables > DC Cables",
+    "type": "DC Bus Cable",
+    "description": "DC Bus cable for Block 7 Inverter 1+2, 1.15 kV DC, 2 cores of 1x300 mm\u00b2 aluminium XLPE cable, length varies per section",
+    "specifications": {
+      "voltage_V": 1150,
+      "current_A": 162,
+      "length_m": 166,
+      "conductor_size_mm2": 300,
+      "conductor_material": "Aluminum",
+      "installation_method": "In Conduit or Direct Burial (inferred)",
+      "number_of_cores": 2,
+      "ampacity_A": 272.41,
+      "voltage_drop_V": 0.634,
+      "power_losses_W": 19083.84
+    },
+    "location": "Block 7",
+    "connectivity": {
+      "from": "Combiner Box",
+      "to": "Inverter 1+2"
+    },
+    "confidence": 1.0
+  },
+  {
+    "name": "DC-Bus-BL08-01",
+    "category": "Electrical > Cables > DC Cables",
+    "type": "DC Bus Cable",
+    "description": "DC Bus cable for Block 8 Inverter 1+2, 1.15 kV DC, 2 cores of 1x300 mm\u00b2 aluminium XLPE cable, length varies per section",
+    "specifications": {
+      "voltage_V": 1150,
+      "current_A": 162,
+      "length_m": 206,
+      "conductor_size_mm2": 300,
+      "conductor_material": "Aluminum",
+      "installation_method": "In Conduit or Direct Burial (inferred)",
+      "number_of_cores": 2,
+      "ampacity_A": 272.41,
+      "voltage_drop_V": 0.651,
+      "power_losses_W": 24365.6
+    },
+    "location": "Block 8",
+    "connectivity": {
+      "from": "Combiner Box",
+      "to": "Inverter 1+2"
+    },
+    "confidence": 1.0
+  },
+  {
+    "name": "DC-Bus-BL09-01",
+    "category": "Electrical > Cables > DC Cables",
+    "type": "DC Bus Cable",
+    "description": "DC Bus cable for Block 9 Inverter 1+2, 1.15 kV DC, 2 cores of 1x300 mm\u00b2 aluminium XLPE cable, length varies per section",
+    "specifications": {
+      "voltage_V": 1150,
+      "current_A": 162,
+      "length_m": 288,
+      "conductor_size_mm2": 300,
+      "conductor_material": "Aluminum",
+      "installation_method": "In Conduit or Direct Burial (inferred)",
+      "number_of_cores": 2,
+      "ampacity_A": 272.41,
+      "voltage_drop_V": 0.769,
+      "power_losses_W": 23108.11
+    },
+    "location": "Block 9",
+    "connectivity": {
+      "from": "Combiner Box",
+      "to": "Inverter 1+2"
+    },
+    "confidence": 1.0
+  },
+  {
+    "name": "DC-Bus-BL10-01",
+    "category": "Electrical > Cables > DC Cables",
+    "type": "DC Bus Cable",
+    "description": "DC Bus cable for Block 10 Inverter 1+2, 1.15 kV DC, 2 cores of 1x300 mm\u00b2 aluminium XLPE cable, length varies per section",
+    "specifications": {
+      "voltage_V": 1150,
+      "current_A": 162,
+      "length_m": 241,
+      "conductor_size_mm2": 300,
+      "conductor_material": "Aluminum",
+      "installation_method": "In Conduit or Direct Burial (inferred)",
+      "number_of_cores": 2,
+      "ampacity_A": 272.41,
+      "voltage_drop_V": 0.899,
+      "power_losses_W": 21386.63
+    },
+    "location": "Block 10",
+    "connectivity": {
+      "from": "Combiner Box",
+      "to": "Inverter 1+2"
+    },
+    "confidence": 1.0
+  },
+  {
+    "name": "DC-Bus-BL11-01",
+    "category": "Electrical > Cables > DC Cables",
+    "type": "DC Bus Cable",
+    "description": "DC Bus cable for Block 11 Inverter 1+2, 1.15 kV DC, 2 cores of 1x300 mm\u00b2 aluminium XLPE cable, length varies per section",
+    "specifications": {
+      "voltage_V": 1150,
+      "current_A": 162,
+      "length_m": 274,
+      "conductor_size_mm2": 300,
+      "conductor_material": "Aluminum",
+      "installation_method": "In Conduit or Direct Burial (inferred)",
+      "number_of_cores": 2,
+      "ampacity_A": 272.41,
+      "voltage_drop_V": 1.075,
+      "power_losses_W": 28675.45
+    },
+    "location": "Block 11",
+    "connectivity": {
+      "from": "Combiner Box",
+      "to": "Inverter 1+2"
+    },
+    "confidence": 1.0
+  },
+  {
+    "name": "DC-Bus-BL12-01",
+    "category": "Electrical > Cables > DC Cables",
+    "type": "DC Bus Cable",
+    "description": "DC Bus cable for Block 12 Inverter 1+2, 1.15 kV DC, 2 cores of 1x300 mm\u00b2 aluminium XLPE cable, length varies per section",
+    "specifications": {
+      "voltage_V": 1150,
+      "current_A": 162,
+      "length_m": 213,
+      "conductor_size_mm2": 300,
+      "conductor_material": "Aluminum",
+      "installation_method": "In Conduit or Direct Burial (inferred)",
+      "number_of_cores": 2,
+      "ampacity_A": 272.41,
+      "voltage_drop_V": 1.039,
+      "power_losses_W": 22398.49
+    },
+    "location": "Block 12",
+    "connectivity": {
+      "from": "Combiner Box",
+      "to": "Inverter 1+2"
+    },
+    "confidence": 1.0
+  },
+  {
+    "name": "DC-Bus-BL13-01",
+    "category": "Electrical > Cables > DC Cables",
+    "type": "DC Bus Cable",
+    "description": "DC Bus cable for Block 13 Inverter 1+2, 1.15 kV DC, 2 cores of 1x300 mm\u00b2 aluminium XLPE cable, length varies per section",
+    "specifications": {
+      "voltage_V": 1150,
+      "current_A": 162,
+      "length_m": 285,
+      "conductor_size_mm2": 300,
+      "conductor_material": "Aluminum",
+      "installation_method": "In Conduit or Direct Burial (inferred)",
+      "number_of_cores": 2,
+      "ampacity_A": 272.41,
+      "voltage_drop_V": 1.06,
+      "power_losses_W": 25534.93
+    },
+    "location": "Block 13",
+    "connectivity": {
+      "from": "Combiner Box",
+      "to": "Inverter 1+2"
+    },
+    "confidence": 1.0
+  },
+  {
+    "name": "DC-Bus-BL14-01",
+    "category": "Electrical > Cables > DC Cables",
+    "type": "DC Bus Cable",
+    "description": "DC Bus cable for Block 14 Inverter 1+2, 1.15 kV DC, 2 cores of 1x300 mm\u00b2 aluminium XLPE cable, length varies per section",
+    "specifications": {
+      "voltage_V": 1150,
+      "current_A": 162,
+      "length_m": 146,
+      "conductor_size_mm2": 300,
+      "conductor_material": "Aluminum",
+      "installation_method": "In Conduit or Direct Burial (inferred)",
+      "number_of_cores": 2,
+      "ampacity_A": 272.41,
+      "voltage_drop_V": 0.764,
+      "power_losses_W": 16454.04
+    },
+    "location": "Block 14",
+    "connectivity": {
+      "from": "Combiner Box",
+      "to": "Inverter 1+2"
+    },
+    "confidence": 1.0
+  },
+  {
+    "name": "DC-Bus-BL15-01",
+    "category": "Electrical > Cables > DC Cables",
+    "type": "DC Bus Cable",
+    "description": "DC Bus cable for Block 15 Inverter 1+2, 1.15 kV DC, 2 cores of 1x300 mm\u00b2 aluminium XLPE cable, length varies per section",
+    "specifications": {
+      "voltage_V": 1150,
+      "current_A": 162,
+      "length_m": 185,
+      "conductor_size_mm2": 300,
+      "conductor_material": "Aluminum",
+      "installation_method": "In Conduit or Direct Burial (inferred)",
+      "number_of_cores": 2,
+      "ampacity_A": 272.41,
+      "voltage_drop_V": 0.958,
+      "power_losses_W": 16840.97
+    },
+    "location": "Block 15",
+    "connectivity": {
+      "from": "Combiner Box",
+      "to": "Inverter 1+2"
+    },
+    "confidence": 1.0
+  },
+  {
+    "name": "DC-Bus-BL16-01",
+    "category": "Electrical > Cables > DC Cables",
+    "type": "DC Bus Cable",
+    "description": "DC Bus cable for Block 16 Inverter 1+2, 1.15 kV DC, 2 cores of 1x300 mm\u00b2 aluminium XLPE cable, length varies per section",
+    "specifications": {
+      "voltage_V": 1150,
+      "current_A": 162,
+      "length_m": 303,
+      "conductor_size_mm2": 300,
+      "conductor_material": "Aluminum",
+      "installation_method": "In Conduit or Direct Burial (inferred)",
+      "number_of_cores": 2,
+      "ampacity_A": 272.41,
+      "voltage_drop_V": 1.08,
+      "power_losses_W": 24071.64
+    },
+    "location": "Block 16",
+    "connectivity": {
+      "from": "Combiner Box",
+      "to": "Inverter 1+2"
+    },
+    "confidence": 1.0
+  }
+]

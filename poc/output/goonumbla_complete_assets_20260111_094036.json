@@ -1,0 +1,3053 @@
+[
+  {
+    "name": "DC-CABLE-MV-1-/-BL-08-/-BL-07",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "6427ef2c-9160-4a5e-86a4-dcf6007bc398",
+    "description": "DC Cable from MV-1 / BL-08 / BL-07 to MV-1 / BL-08 / BL-07",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 78058))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "240mm\u00b2",
+      "length_m": 460.0,
+      "from_location": "MV-1 / BL-08 / BL-07",
+      "to_location": "MV-1 / BL-08 / BL-07"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-1-/-BL-07-/-BL-02",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "88c8299e-d53a-4d58-88bb-7c62bf84e29b",
+    "description": "DC Cable from MV-1 / BL-07 / BL-02 to MV-1 / BL-07 / BL-02",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 78142))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "300mm\u00b2",
+      "length_m": 1390.0,
+      "from_location": "MV-1 / BL-07 / BL-02",
+      "to_location": "MV-1 / BL-07 / BL-02"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-1-/-BL-02-/-BL-01",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "24500363-a6e8-43c0-877e-7481163abdf5",
+    "description": "DC Cable from MV-1 / BL-02 / BL-01 to MV-1 / BL-02 / BL-01",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 78162))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "500mm\u00b2",
+      "length_m": 603.0,
+      "from_location": "MV-1 / BL-02 / BL-01",
+      "to_location": "MV-1 / BL-02 / BL-01"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-1-/-BL-01-/-SUBSTATION",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "42459613-8074-4267-aa86-0b4608fd9f21",
+    "description": "DC Cable from MV-1 / BL-01 / SUBSTATION to MV-1 / BL-01 / SUBSTATION",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 78179))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "630mm\u00b2",
+      "length_m": 342.0,
+      "from_location": "MV-1 / BL-01 / SUBSTATION",
+      "to_location": "MV-1 / BL-01 / SUBSTATION"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-2-/-BL-10-/-BL-09",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "5fb9e3f6-94c9-400a-84b3-cffa6b5e56b5",
+    "description": "DC Cable from MV-2 / BL-10 / BL-09 to MV-2 / BL-10 / BL-09",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 78199))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "240mm\u00b2",
+      "length_m": 514.0,
+      "from_location": "MV-2 / BL-10 / BL-09",
+      "to_location": "MV-2 / BL-10 / BL-09"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-2-/-BL-09-/-BL-05",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "a15c29da-f159-4e90-b4b2-4d0e27ca9aa3",
+    "description": "DC Cable from MV-2 / BL-09 / BL-05 to MV-2 / BL-09 / BL-05",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 78212))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "300mm\u00b2",
+      "length_m": 1552.0,
+      "from_location": "MV-2 / BL-09 / BL-05",
+      "to_location": "MV-2 / BL-09 / BL-05"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-2-/-BL-05-/-BL-03",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "74878e1b-a67c-48ff-b16f-ccf23f807d2e",
+    "description": "DC Cable from MV-2 / BL-05 / BL-03 to MV-2 / BL-05 / BL-03",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 78224))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "500mm\u00b2",
+      "length_m": 641.0,
+      "from_location": "MV-2 / BL-05 / BL-03",
+      "to_location": "MV-2 / BL-05 / BL-03"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-2-/-BL-03-/-SUBSTATION",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "2c6d18e0-5828-4cd7-b72d-7ef3c72173bc",
+    "description": "DC Cable from MV-2 / BL-03 / SUBSTATION to MV-2 / BL-03 / SUBSTATION",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 78235))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "630mm\u00b2",
+      "length_m": 593.0,
+      "from_location": "MV-2 / BL-03 / SUBSTATION",
+      "to_location": "MV-2 / BL-03 / SUBSTATION"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-3-/-BL-13-/-BL-12",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "2a5aafc3-8ee7-40ac-add4-b9ce35d90d6f",
+    "description": "DC Cable from MV-3 / BL-13 / BL-12 to MV-3 / BL-13 / BL-12",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 78251))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "240mm\u00b2",
+      "length_m": 429.0,
+      "from_location": "MV-3 / BL-13 / BL-12",
+      "to_location": "MV-3 / BL-13 / BL-12"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-3-/-BL-12-/-BL-11",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "9a247f30-3898-4a02-b914-0fdbe4d2c9ad",
+    "description": "DC Cable from MV-3 / BL-12 / BL-11 to MV-3 / BL-12 / BL-11",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 78262))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "300mm\u00b2",
+      "length_m": 389.0,
+      "from_location": "MV-3 / BL-12 / BL-11",
+      "to_location": "MV-3 / BL-12 / BL-11"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-3-/-BL-11-/-BL-04",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "36afdc6f-cb19-41fb-8729-c59bb169f441",
+    "description": "DC Cable from MV-3 / BL-11 / BL-04 to MV-3 / BL-11 / BL-04",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 78272))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "500mm\u00b2",
+      "length_m": 1412.0,
+      "from_location": "MV-3 / BL-11 / BL-04",
+      "to_location": "MV-3 / BL-11 / BL-04"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-3-/-BL-04-/-SUBSTATION",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "184b0c2f-e2e8-47f5-a10f-19a47d6b7e93",
+    "description": "DC Cable from MV-3 / BL-04 / SUBSTATION to MV-3 / BL-04 / SUBSTATION",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 78282))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "630mm\u00b2",
+      "length_m": 481.0,
+      "from_location": "MV-3 / BL-04 / SUBSTATION",
+      "to_location": "MV-3 / BL-04 / SUBSTATION"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-4-/-BL-16-/-BL-15",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "813f676b-52f9-48bf-865a-325cdc472701",
+    "description": "DC Cable from MV-4 / BL-16 / BL-15 to MV-4 / BL-16 / BL-15",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 78292))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "240mm\u00b2",
+      "length_m": 502.0,
+      "from_location": "MV-4 / BL-16 / BL-15",
+      "to_location": "MV-4 / BL-16 / BL-15"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-4-/-BL-15-/-BL-14",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "b47c27c3-e727-41c1-908a-07f0ce360c2b",
+    "description": "DC Cable from MV-4 / BL-15 / BL-14 to MV-4 / BL-15 / BL-14",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 78301))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "300mm\u00b2",
+      "length_m": 397.0,
+      "from_location": "MV-4 / BL-15 / BL-14",
+      "to_location": "MV-4 / BL-15 / BL-14"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-4-/-BL-14-/-BL-06",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "ac7cdbe8-6f91-464f-a308-7783ac8973db",
+    "description": "DC Cable from MV-4 / BL-14 / BL-06 to MV-4 / BL-14 / BL-06",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 78309))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "500mm\u00b2",
+      "length_m": 1273.0,
+      "from_location": "MV-4 / BL-14 / BL-06",
+      "to_location": "MV-4 / BL-14 / BL-06"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-4-/-BL-06-/-SUBSTATION",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "2e497016-c908-4019-843d-582d5fe08270",
+    "description": "DC Cable from MV-4 / BL-06 / SUBSTATION to MV-4 / BL-06 / SUBSTATION",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 78318))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "630mm\u00b2",
+      "length_m": 1307.0,
+      "from_location": "MV-4 / BL-06 / SUBSTATION",
+      "to_location": "MV-4 / BL-06 / SUBSTATION"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-1-/-BL-08-/-BL-07",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "98d8ae92-a353-4e2f-8294-595ade7a68cf",
+    "description": "DC Cable from MV-1 / BL-08 / BL-07 to MV-1 / BL-08 / BL-07",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 397715))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "240mm\u00b2",
+      "length_m": 460.0,
+      "from_location": "MV-1 / BL-08 / BL-07",
+      "to_location": "MV-1 / BL-08 / BL-07"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-1-/-BL-07-/-BL-02",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "78338e0d-317b-4e01-a950-459a22c4eb8e",
+    "description": "DC Cable from MV-1 / BL-07 / BL-02 to MV-1 / BL-07 / BL-02",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 397767))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "300mm\u00b2",
+      "length_m": 1390.0,
+      "from_location": "MV-1 / BL-07 / BL-02",
+      "to_location": "MV-1 / BL-07 / BL-02"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-1-/-BL-02-/-BL-01",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "c2ab0050-cb2e-4244-a6d8-f2dbf07eac32",
+    "description": "DC Cable from MV-1 / BL-02 / BL-01 to MV-1 / BL-02 / BL-01",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 397793))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "500mm\u00b2",
+      "length_m": 603.0,
+      "from_location": "MV-1 / BL-02 / BL-01",
+      "to_location": "MV-1 / BL-02 / BL-01"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-1-/-BL-01-/-SUBSTATION",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "6c9872eb-0526-4d74-ab84-a7443bb6ddbe",
+    "description": "DC Cable from MV-1 / BL-01 / SUBSTATION to MV-1 / BL-01 / SUBSTATION",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 397806))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "630mm\u00b2",
+      "length_m": 342.0,
+      "from_location": "MV-1 / BL-01 / SUBSTATION",
+      "to_location": "MV-1 / BL-01 / SUBSTATION"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-2-/-BL-10-/-BL-09",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "bf0d1dc2-a16b-468b-8acb-54e855f8d3bf",
+    "description": "DC Cable from MV-2 / BL-10 / BL-09 to MV-2 / BL-10 / BL-09",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 397817))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "240mm\u00b2",
+      "length_m": 514.0,
+      "from_location": "MV-2 / BL-10 / BL-09",
+      "to_location": "MV-2 / BL-10 / BL-09"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-2-/-BL-09-/-BL-05",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "76f809b7-bb70-49ed-b564-47df09e8cd34",
+    "description": "DC Cable from MV-2 / BL-09 / BL-05 to MV-2 / BL-09 / BL-05",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 397826))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "300mm\u00b2",
+      "length_m": 1552.0,
+      "from_location": "MV-2 / BL-09 / BL-05",
+      "to_location": "MV-2 / BL-09 / BL-05"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-2-/-BL-05-/-BL-03",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "e45b6762-1a7e-46b6-bdbe-6fcd0d157115",
+    "description": "DC Cable from MV-2 / BL-05 / BL-03 to MV-2 / BL-05 / BL-03",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 397835))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "500mm\u00b2",
+      "length_m": 641.0,
+      "from_location": "MV-2 / BL-05 / BL-03",
+      "to_location": "MV-2 / BL-05 / BL-03"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-2-/-BL-03-/-SUBSTATION",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "03dcdded-a155-46dd-897f-31e5c0de98b4",
+    "description": "DC Cable from MV-2 / BL-03 / SUBSTATION to MV-2 / BL-03 / SUBSTATION",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 397844))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "630mm\u00b2",
+      "length_m": 593.0,
+      "from_location": "MV-2 / BL-03 / SUBSTATION",
+      "to_location": "MV-2 / BL-03 / SUBSTATION"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-3-/-BL-13-/-BL-12",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "e78ddd29-00d9-42df-9e52-f77a8f723492",
+    "description": "DC Cable from MV-3 / BL-13 / BL-12 to MV-3 / BL-13 / BL-12",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 397854))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "240mm\u00b2",
+      "length_m": 429.0,
+      "from_location": "MV-3 / BL-13 / BL-12",
+      "to_location": "MV-3 / BL-13 / BL-12"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-3-/-BL-12-/-BL-11",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "e48e63d4-ba5b-4f9a-98dd-9d527954541b",
+    "description": "DC Cable from MV-3 / BL-12 / BL-11 to MV-3 / BL-12 / BL-11",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 397863))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "300mm\u00b2",
+      "length_m": 389.0,
+      "from_location": "MV-3 / BL-12 / BL-11",
+      "to_location": "MV-3 / BL-12 / BL-11"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-3-/-BL-11-/-BL-04",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "8f1b67fa-f212-4660-b05c-1c629fb1e056",
+    "description": "DC Cable from MV-3 / BL-11 / BL-04 to MV-3 / BL-11 / BL-04",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 397872))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "500mm\u00b2",
+      "length_m": 1412.0,
+      "from_location": "MV-3 / BL-11 / BL-04",
+      "to_location": "MV-3 / BL-11 / BL-04"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-3-/-BL-04-/-SUBSTATION",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "ad958710-373b-4327-950a-95d9010fa44f",
+    "description": "DC Cable from MV-3 / BL-04 / SUBSTATION to MV-3 / BL-04 / SUBSTATION",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 397880))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "630mm\u00b2",
+      "length_m": 481.0,
+      "from_location": "MV-3 / BL-04 / SUBSTATION",
+      "to_location": "MV-3 / BL-04 / SUBSTATION"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-4-/-BL-16-/-BL-15",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "e48e4452-8b1e-472b-9bc0-89aa6aec4ec0",
+    "description": "DC Cable from MV-4 / BL-16 / BL-15 to MV-4 / BL-16 / BL-15",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 397888))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "240mm\u00b2",
+      "length_m": 502.0,
+      "from_location": "MV-4 / BL-16 / BL-15",
+      "to_location": "MV-4 / BL-16 / BL-15"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-4-/-BL-15-/-BL-14",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "5a2f52b5-6976-4e1c-ae24-83f3fc4df77c",
+    "description": "DC Cable from MV-4 / BL-15 / BL-14 to MV-4 / BL-15 / BL-14",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 397897))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "300mm\u00b2",
+      "length_m": 397.0,
+      "from_location": "MV-4 / BL-15 / BL-14",
+      "to_location": "MV-4 / BL-15 / BL-14"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-4-/-BL-14-/-BL-06",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "6d6f0231-86ff-4335-98b1-d4a92d537e7d",
+    "description": "DC Cable from MV-4 / BL-14 / BL-06 to MV-4 / BL-14 / BL-06",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 397906))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "500mm\u00b2",
+      "length_m": 1273.0,
+      "from_location": "MV-4 / BL-14 / BL-06",
+      "to_location": "MV-4 / BL-14 / BL-06"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-4-/-BL-06-/-SUBSTATION",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "6bb55314-8662-4634-93a6-ec27cb871f57",
+    "description": "DC Cable from MV-4 / BL-06 / SUBSTATION to MV-4 / BL-06 / SUBSTATION",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 397914))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": "630mm\u00b2",
+      "length_m": 1307.0,
+      "from_location": "MV-4 / BL-06 / SUBSTATION",
+      "to_location": "MV-4 / BL-06 / SUBSTATION"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-1-/-BL-08-/-BL-07",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "85a98d8b-104e-45ae-962c-0580282565d2",
+    "description": "DC Cable from MV-1 / BL-08 / BL-07 to MV-1 / BL-08 / BL-07",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 536710))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-1 / BL-08 / BL-07",
+      "to_location": "MV-1 / BL-08 / BL-07"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-1-/-BL-07-/-BL-02",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "336cff73-a5c4-4cc8-8bc1-e40c4ca3026f",
+    "description": "DC Cable from MV-1 / BL-07 / BL-02 to MV-1 / BL-07 / BL-02",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 536789))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-1 / BL-07 / BL-02",
+      "to_location": "MV-1 / BL-07 / BL-02"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-1-/-BL-02-/-BL-01",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "f0703e6e-a1c3-4843-a29e-64b6c5646f79",
+    "description": "DC Cable from MV-1 / BL-02 / BL-01 to MV-1 / BL-02 / BL-01",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 536805))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-1 / BL-02 / BL-01",
+      "to_location": "MV-1 / BL-02 / BL-01"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-1-/-BL-01-/-SUBSTATION",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "c4ec79b4-6321-47be-a948-00117d8e532c",
+    "description": "DC Cable from MV-1 / BL-01 / SUBSTATION to MV-1 / BL-01 / SUBSTATION",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 536817))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-1 / BL-01 / SUBSTATION",
+      "to_location": "MV-1 / BL-01 / SUBSTATION"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-2-/-BL-10-/-BL-09",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "ef0f374c-fae4-437a-8a2b-8de29c298afb",
+    "description": "DC Cable from MV-2 / BL-10 / BL-09 to MV-2 / BL-10 / BL-09",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 536829))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-2 / BL-10 / BL-09",
+      "to_location": "MV-2 / BL-10 / BL-09"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-2-/-BL-09-/-BL-05",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "1e97284b-8ca1-4a72-bd6e-08c4859ca0ad",
+    "description": "DC Cable from MV-2 / BL-09 / BL-05 to MV-2 / BL-09 / BL-05",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 536839))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-2 / BL-09 / BL-05",
+      "to_location": "MV-2 / BL-09 / BL-05"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-2-/-BL-05-/-BL-03",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "89f267c3-17ea-4386-a20c-4ee10ac01d72",
+    "description": "DC Cable from MV-2 / BL-05 / BL-03 to MV-2 / BL-05 / BL-03",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 536850))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-2 / BL-05 / BL-03",
+      "to_location": "MV-2 / BL-05 / BL-03"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-2-/-BL-03-/-SUBSTATION",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "64afdfa3-4960-46f8-b009-a4318192bcf7",
+    "description": "DC Cable from MV-2 / BL-03 / SUBSTATION to MV-2 / BL-03 / SUBSTATION",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 536860))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-2 / BL-03 / SUBSTATION",
+      "to_location": "MV-2 / BL-03 / SUBSTATION"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-3-/-BL-13-/-BL-12",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "188e7041-dcad-4be4-b8fd-65e48e87dbef",
+    "description": "DC Cable from MV-3 / BL-13 / BL-12 to MV-3 / BL-13 / BL-12",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 536871))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-3 / BL-13 / BL-12",
+      "to_location": "MV-3 / BL-13 / BL-12"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-3-/-BL-12-/-BL-11",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "5dd2ebb0-e058-4f0b-ae0d-d7eabbc80f4f",
+    "description": "DC Cable from MV-3 / BL-12 / BL-11 to MV-3 / BL-12 / BL-11",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 536883))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-3 / BL-12 / BL-11",
+      "to_location": "MV-3 / BL-12 / BL-11"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-3-/-BL-11-/-BL-04",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "6df28420-d0e1-4067-8643-86abe44770a3",
+    "description": "DC Cable from MV-3 / BL-11 / BL-04 to MV-3 / BL-11 / BL-04",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 536894))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-3 / BL-11 / BL-04",
+      "to_location": "MV-3 / BL-11 / BL-04"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-3-/-BL-04-/-SUBSTATION",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "d1d7501f-639e-4726-80f2-25bb0cfeb081",
+    "description": "DC Cable from MV-3 / BL-04 / SUBSTATION to MV-3 / BL-04 / SUBSTATION",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 536903))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-3 / BL-04 / SUBSTATION",
+      "to_location": "MV-3 / BL-04 / SUBSTATION"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-4-/-BL-16-/-BL-15",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "bc4e36ea-4fcd-492d-b9de-f205dba83fbb",
+    "description": "DC Cable from MV-4 / BL-16 / BL-15 to MV-4 / BL-16 / BL-15",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 536911))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-4 / BL-16 / BL-15",
+      "to_location": "MV-4 / BL-16 / BL-15"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-4-/-BL-15-/-BL-14",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "82297d94-3de7-45df-b19f-53d8347c954a",
+    "description": "DC Cable from MV-4 / BL-15 / BL-14 to MV-4 / BL-15 / BL-14",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 536918))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-4 / BL-15 / BL-14",
+      "to_location": "MV-4 / BL-15 / BL-14"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-4-/-BL-14-/-BL-06",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "bd6445e6-984f-4fee-a680-b95f8c671f94",
+    "description": "DC Cable from MV-4 / BL-14 / BL-06 to MV-4 / BL-14 / BL-06",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 536926))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-4 / BL-14 / BL-06",
+      "to_location": "MV-4 / BL-14 / BL-06"
+    }
+  },
+  {
+    "name": "DC-CABLE-MV-4-/-BL-06-/-SUBSTATION",
+    "category": "Electrical > Cables > DC Cables",
+    "status": "Specified",
+    "id": "463af3bd-1e55-4f03-bcfd-df4197d3a50e",
+    "description": "DC Cable from MV-4 / BL-06 / SUBSTATION to MV-4 / BL-06 / SUBSTATION",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 536933))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "DC Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-4 / BL-06 / SUBSTATION",
+      "to_location": "MV-4 / BL-06 / SUBSTATION"
+    }
+  },
+  {
+    "name": "BL-01",
+    "category": "Solar > Power Stations",
+    "status": "Specified",
+    "id": "dd3dce8e-4151-4a51-bd84-e84fea139579",
+    "description": "Power Station (Skid Solution) for Block 1",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941613))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 1
+    }
+  },
+  {
+    "name": "BL-02",
+    "category": "Solar > Power Stations",
+    "status": "Specified",
+    "id": "9cba78a3-4469-4224-95ab-6ba9b74dfa07",
+    "description": "Power Station (Skid Solution) for Block 2",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941649))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 2
+    }
+  },
+  {
+    "name": "BL-03",
+    "category": "Solar > Power Stations",
+    "status": "Specified",
+    "id": "57f65bfe-d8bf-4d4a-b7ed-773dd74b670e",
+    "description": "Power Station (Skid Solution) for Block 3",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941656))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 3
+    }
+  },
+  {
+    "name": "BL-04",
+    "category": "Solar > Power Stations",
+    "status": "Specified",
+    "id": "3583c62a-ac5d-4ded-b88a-56583ac3d983",
+    "description": "Power Station (Skid Solution) for Block 4",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941662))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 4
+    }
+  },
+  {
+    "name": "BL-05",
+    "category": "Solar > Power Stations",
+    "status": "Specified",
+    "id": "4e7a4e60-bf25-4b06-a1c6-66172ee98c16",
+    "description": "Power Station (Skid Solution) for Block 5",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941668))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 5
+    }
+  },
+  {
+    "name": "BL-06",
+    "category": "Solar > Power Stations",
+    "status": "Specified",
+    "id": "8227be25-911e-4137-af5e-afb57f0dee66",
+    "description": "Power Station (Skid Solution) for Block 6",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941674))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 6
+    }
+  },
+  {
+    "name": "BL-07",
+    "category": "Solar > Power Stations",
+    "status": "Specified",
+    "id": "260a9910-0edf-4903-a883-13f3e0769fd5",
+    "description": "Power Station (Skid Solution) for Block 7",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941679))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 7
+    }
+  },
+  {
+    "name": "BL-08",
+    "category": "Solar > Power Stations",
+    "status": "Specified",
+    "id": "a3c28149-1328-469b-ac88-873a3eb73fab",
+    "description": "Power Station (Skid Solution) for Block 8",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941688))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 8
+    }
+  },
+  {
+    "name": "BL-09",
+    "category": "Solar > Power Stations",
+    "status": "Specified",
+    "id": "f5938434-66a2-40fc-8d0b-578c6ab4c54b",
+    "description": "Power Station (Skid Solution) for Block 9",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941693))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 9
+    }
+  },
+  {
+    "name": "BL-10",
+    "category": "Solar > Power Stations",
+    "status": "Specified",
+    "id": "907af198-e5e4-4f7f-9508-eaa7c724dd70",
+    "description": "Power Station (Skid Solution) for Block 10",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941698))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 10
+    }
+  },
+  {
+    "name": "BL-11",
+    "category": "Solar > Power Stations",
+    "status": "Specified",
+    "id": "fb3feaa3-772b-4fae-a98b-0c2953d2d9b5",
+    "description": "Power Station (Skid Solution) for Block 11",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941703))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 11
+    }
+  },
+  {
+    "name": "BL-12",
+    "category": "Solar > Power Stations",
+    "status": "Specified",
+    "id": "7e73b58e-9bac-420a-8ba8-0ae09b5211e8",
+    "description": "Power Station (Skid Solution) for Block 12",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941708))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 12
+    }
+  },
+  {
+    "name": "BL-13",
+    "category": "Solar > Power Stations",
+    "status": "Specified",
+    "id": "366040da-f2f6-4828-8110-8f689144b629",
+    "description": "Power Station (Skid Solution) for Block 13",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941713))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 13
+    }
+  },
+  {
+    "name": "BL-14",
+    "category": "Solar > Power Stations",
+    "status": "Specified",
+    "id": "5ba751ac-f7a2-47bf-93c1-107aa6399301",
+    "description": "Power Station (Skid Solution) for Block 14",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941718))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 14
+    }
+  },
+  {
+    "name": "BL-15",
+    "category": "Solar > Power Stations",
+    "status": "Specified",
+    "id": "da203fef-e01a-4bbb-b890-406cd7d9afed",
+    "description": "Power Station (Skid Solution) for Block 15",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941723))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 15
+    }
+  },
+  {
+    "name": "BL-16",
+    "category": "Solar > Power Stations",
+    "status": "Specified",
+    "id": "57b5ba65-a7b9-4087-8042-ddce53199886",
+    "description": "Power Station (Skid Solution) for Block 16",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941731))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 16
+    }
+  },
+  {
+    "name": "INV-01.1",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "6055c696-a0cc-4bdd-8bdb-c573e7b72b97",
+    "description": "Inverter 1 in Block 1",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941738))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 1,
+      "inverter_number": 1
+    }
+  },
+  {
+    "name": "INV-01.2",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "85c27b2d-d346-448d-9348-9a048befbb7a",
+    "description": "Inverter 2 in Block 1",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941744))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 1,
+      "inverter_number": 2
+    }
+  },
+  {
+    "name": "INV-02.1",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "16050f63-7123-45a8-b732-20e84adc9040",
+    "description": "Inverter 1 in Block 2",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941750))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 2,
+      "inverter_number": 1
+    }
+  },
+  {
+    "name": "INV-02.2",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "1f3844d5-a0a7-48a7-85ea-ecc3d74daa88",
+    "description": "Inverter 2 in Block 2",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941755))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 2,
+      "inverter_number": 2
+    }
+  },
+  {
+    "name": "INV-03.1",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "d3bc9ca1-0abb-4dbb-9f35-0e9256b1c695",
+    "description": "Inverter 1 in Block 3",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941761))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 3,
+      "inverter_number": 1
+    }
+  },
+  {
+    "name": "INV-03.2",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "cb3cacb7-fb09-49de-8703-02cd85d5e2ff",
+    "description": "Inverter 2 in Block 3",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941765))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 3,
+      "inverter_number": 2
+    }
+  },
+  {
+    "name": "INV-04.1",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "58a7c3fd-0cfb-40c8-a2c3-ef4bf333c41e",
+    "description": "Inverter 1 in Block 4",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941771))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 4,
+      "inverter_number": 1
+    }
+  },
+  {
+    "name": "INV-05.1",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "8a0ab29a-f00b-44e6-b214-4e6ae2885687",
+    "description": "Inverter 1 in Block 5",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941776))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 5,
+      "inverter_number": 1
+    }
+  },
+  {
+    "name": "INV-05.2",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "dee3cc7f-1077-4bc9-9363-5ac02847ee9f",
+    "description": "Inverter 2 in Block 5",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941791))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 5,
+      "inverter_number": 2
+    }
+  },
+  {
+    "name": "INV-06.1",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "40047057-33ec-4951-b75f-df5bfd6032d1",
+    "description": "Inverter 1 in Block 6",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941797))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 6,
+      "inverter_number": 1
+    }
+  },
+  {
+    "name": "INV-06.2",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "07ebd242-0ee5-442c-a0ff-7e1fc940bd86",
+    "description": "Inverter 2 in Block 6",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941801))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 6,
+      "inverter_number": 2
+    }
+  },
+  {
+    "name": "INV-07.1",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "fd3b9901-1acc-49ff-9427-2334ab771fba",
+    "description": "Inverter 1 in Block 7",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941809))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 7,
+      "inverter_number": 1
+    }
+  },
+  {
+    "name": "INV-07.2",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "48da790b-e907-4ecf-ab1b-92b441312e64",
+    "description": "Inverter 2 in Block 7",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941815))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 7,
+      "inverter_number": 2
+    }
+  },
+  {
+    "name": "INV-08.1",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "1a085916-c93a-4f6c-bbb6-1bfd8f0d647e",
+    "description": "Inverter 1 in Block 8",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941820))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 8,
+      "inverter_number": 1
+    }
+  },
+  {
+    "name": "INV-08.2",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "f1fe3b3a-824f-4330-8862-0ec92facb70d",
+    "description": "Inverter 2 in Block 8",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941824))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 8,
+      "inverter_number": 2
+    }
+  },
+  {
+    "name": "INV-09.1",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "50028b4e-7f38-43fa-a886-060ce968b673",
+    "description": "Inverter 1 in Block 9",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941829))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 9,
+      "inverter_number": 1
+    }
+  },
+  {
+    "name": "INV-09.2",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "a182f448-bb17-453b-9f80-402c78e60031",
+    "description": "Inverter 2 in Block 9",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941834))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 9,
+      "inverter_number": 2
+    }
+  },
+  {
+    "name": "INV-10.1",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "1e8e6784-2a59-42c0-877a-0459d5d80ad9",
+    "description": "Inverter 1 in Block 10",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941839))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 10,
+      "inverter_number": 1
+    }
+  },
+  {
+    "name": "INV-10.2",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "f01f8d50-6af0-4312-8f55-79b4b0a97530",
+    "description": "Inverter 2 in Block 10",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941844))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 10,
+      "inverter_number": 2
+    }
+  },
+  {
+    "name": "INV-11.1",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "db386c02-e8b1-4905-b8f9-1d372595bbdb",
+    "description": "Inverter 1 in Block 11",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941849))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 11,
+      "inverter_number": 1
+    }
+  },
+  {
+    "name": "INV-11.2",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "5ee86bfa-4107-458e-818e-57eac25e1ec8",
+    "description": "Inverter 2 in Block 11",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941853))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 11,
+      "inverter_number": 2
+    }
+  },
+  {
+    "name": "INV-12.1",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "67b944d3-6260-4ca3-b90d-6a7cf56033f5",
+    "description": "Inverter 1 in Block 12",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941858))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 12,
+      "inverter_number": 1
+    }
+  },
+  {
+    "name": "INV-12.2",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "14e463a2-38bd-4b34-8652-756a18e6f010",
+    "description": "Inverter 2 in Block 12",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941863))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 12,
+      "inverter_number": 2
+    }
+  },
+  {
+    "name": "INV-13.1",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "56a79742-fad1-444c-b63f-f44abe097f68",
+    "description": "Inverter 1 in Block 13",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941869))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 13,
+      "inverter_number": 1
+    }
+  },
+  {
+    "name": "INV-13.2",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "639634df-6611-4978-b667-fe0f2f1b988e",
+    "description": "Inverter 2 in Block 13",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941874))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 13,
+      "inverter_number": 2
+    }
+  },
+  {
+    "name": "INV-14.1",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "ba688c16-b6a9-4beb-be21-adaa1dea6e88",
+    "description": "Inverter 1 in Block 14",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941880))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 14,
+      "inverter_number": 1
+    }
+  },
+  {
+    "name": "INV-14.2",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "d48605c1-c440-40a9-8447-c5c5608e4a7f",
+    "description": "Inverter 2 in Block 14",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941885))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 14,
+      "inverter_number": 2
+    }
+  },
+  {
+    "name": "INV-15.1",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "101b8512-5d50-46da-bb31-ff18d51b9c1c",
+    "description": "Inverter 1 in Block 15",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941890))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 15,
+      "inverter_number": 1
+    }
+  },
+  {
+    "name": "INV-15.2",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "940590ca-d560-4d0f-8978-ff81bd4601dd",
+    "description": "Inverter 2 in Block 15",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941894))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 15,
+      "inverter_number": 2
+    }
+  },
+  {
+    "name": "INV-16.1",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "a26c8794-08f4-41cd-8dd2-02bc164cf5f3",
+    "description": "Inverter 1 in Block 16",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941899))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 16,
+      "inverter_number": 1
+    }
+  },
+  {
+    "name": "INV-16.2",
+    "category": "Electrical > Inverters",
+    "status": "Specified",
+    "id": "2d958564-e5fb-44a5-bc77-bf8284981633",
+    "description": "Inverter 2 in Block 16",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941904))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 16,
+      "inverter_number": 2
+    }
+  },
+  {
+    "name": "TRF01",
+    "category": "Electrical > Transformers > LV/MV Transformers",
+    "status": "Specified",
+    "id": "31ef955f-65ab-4597-a6c0-cfa79fea76df",
+    "description": "LV/MV Transformer for Block 1",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941909))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 1
+    }
+  },
+  {
+    "name": "TRF02",
+    "category": "Electrical > Transformers > LV/MV Transformers",
+    "status": "Specified",
+    "id": "06af41ee-1cd1-4399-bd7b-2b67248d0393",
+    "description": "LV/MV Transformer for Block 2",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941915))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 2
+    }
+  },
+  {
+    "name": "TRF03",
+    "category": "Electrical > Transformers > LV/MV Transformers",
+    "status": "Specified",
+    "id": "0ffb3973-660d-4ec7-9d48-d4a05082b727",
+    "description": "LV/MV Transformer for Block 3",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941920))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 3
+    }
+  },
+  {
+    "name": "TRF04",
+    "category": "Electrical > Transformers > LV/MV Transformers",
+    "status": "Specified",
+    "id": "27256238-09cb-437c-ad3d-86f1f564bfd7",
+    "description": "LV/MV Transformer for Block 4",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941925))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 4
+    }
+  },
+  {
+    "name": "TRF05",
+    "category": "Electrical > Transformers > LV/MV Transformers",
+    "status": "Specified",
+    "id": "6a8e34bd-7e9f-4cf5-ac8a-7d667ca5da5c",
+    "description": "LV/MV Transformer for Block 5",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941932))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 5
+    }
+  },
+  {
+    "name": "TRF06",
+    "category": "Electrical > Transformers > LV/MV Transformers",
+    "status": "Specified",
+    "id": "860372db-9331-4b4c-be37-bab1084b01d3",
+    "description": "LV/MV Transformer for Block 6",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941936))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 6
+    }
+  },
+  {
+    "name": "TRF07",
+    "category": "Electrical > Transformers > LV/MV Transformers",
+    "status": "Specified",
+    "id": "550674a0-f616-4763-8ebf-5bc2abbe147c",
+    "description": "LV/MV Transformer for Block 7",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941941))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 7
+    }
+  },
+  {
+    "name": "TRF08",
+    "category": "Electrical > Transformers > LV/MV Transformers",
+    "status": "Specified",
+    "id": "e19f9303-bdb3-4bc2-8f3b-a00aa868f52c",
+    "description": "LV/MV Transformer for Block 8",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941946))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 8
+    }
+  },
+  {
+    "name": "TRF09",
+    "category": "Electrical > Transformers > LV/MV Transformers",
+    "status": "Specified",
+    "id": "3069b3e0-f77f-46e5-9c8c-90289e6fff45",
+    "description": "LV/MV Transformer for Block 9",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941950))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 9
+    }
+  },
+  {
+    "name": "TRF10",
+    "category": "Electrical > Transformers > LV/MV Transformers",
+    "status": "Specified",
+    "id": "1f4a3646-f80c-445d-876a-b91c0af72256",
+    "description": "LV/MV Transformer for Block 10",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941955))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 10
+    }
+  },
+  {
+    "name": "TRF11",
+    "category": "Electrical > Transformers > LV/MV Transformers",
+    "status": "Specified",
+    "id": "e410067d-d1cf-42c3-831b-a169a9459c10",
+    "description": "LV/MV Transformer for Block 11",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941959))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 11
+    }
+  },
+  {
+    "name": "TRF12",
+    "category": "Electrical > Transformers > LV/MV Transformers",
+    "status": "Specified",
+    "id": "ac8c30d8-f06a-4f66-821c-e87f7aa94b79",
+    "description": "LV/MV Transformer for Block 12",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 941964))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 12
+    }
+  },
+  {
+    "name": "TRF13",
+    "category": "Electrical > Transformers > LV/MV Transformers",
+    "status": "Specified",
+    "id": "5dd31edb-3c8f-4d31-8796-0d1247418f1d",
+    "description": "LV/MV Transformer for Block 13",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942680))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 13
+    }
+  },
+  {
+    "name": "TRF14",
+    "category": "Electrical > Transformers > LV/MV Transformers",
+    "status": "Specified",
+    "id": "a5d97089-4133-48bc-8c3b-cf1e479afd32",
+    "description": "LV/MV Transformer for Block 14",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942691))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 14
+    }
+  },
+  {
+    "name": "TRF15",
+    "category": "Electrical > Transformers > LV/MV Transformers",
+    "status": "Specified",
+    "id": "92c388a7-ae92-4239-9a33-1cb762a5670e",
+    "description": "LV/MV Transformer for Block 15",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942696))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 15
+    }
+  },
+  {
+    "name": "TRF16",
+    "category": "Electrical > Transformers > LV/MV Transformers",
+    "status": "Specified",
+    "id": "dee4ee38-b2df-4609-9249-008adb258d75",
+    "description": "LV/MV Transformer for Block 16",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942701))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 16
+    }
+  },
+  {
+    "name": "AUXTRF01",
+    "category": "Electrical > Transformers > LV/LV Auxiliary Transformers",
+    "status": "Specified",
+    "id": "8dd7c684-2028-49e0-8be1-6079d9439bc7",
+    "description": "LV/LV Auxiliary Transformer for Block 1",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942708))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 1
+    }
+  },
+  {
+    "name": "AUXTRF02",
+    "category": "Electrical > Transformers > LV/LV Auxiliary Transformers",
+    "status": "Specified",
+    "id": "e84108f3-d595-45b9-ab42-b74412732844",
+    "description": "LV/LV Auxiliary Transformer for Block 2",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942714))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 2
+    }
+  },
+  {
+    "name": "AUXTRF03",
+    "category": "Electrical > Transformers > LV/LV Auxiliary Transformers",
+    "status": "Specified",
+    "id": "99f3cc0c-c9c2-4a7c-b0f4-cff2e7b0f021",
+    "description": "LV/LV Auxiliary Transformer for Block 3",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942719))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 3
+    }
+  },
+  {
+    "name": "AUXTRF04",
+    "category": "Electrical > Transformers > LV/LV Auxiliary Transformers",
+    "status": "Specified",
+    "id": "ed41e8a6-2a3a-4771-99c9-f76c591f5b0c",
+    "description": "LV/LV Auxiliary Transformer for Block 4",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942723))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 4
+    }
+  },
+  {
+    "name": "AUXTRF05",
+    "category": "Electrical > Transformers > LV/LV Auxiliary Transformers",
+    "status": "Specified",
+    "id": "94f84d96-1bdd-44db-b1ad-e64ea6abff29",
+    "description": "LV/LV Auxiliary Transformer for Block 5",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942733))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 5
+    }
+  },
+  {
+    "name": "AUXTRF06",
+    "category": "Electrical > Transformers > LV/LV Auxiliary Transformers",
+    "status": "Specified",
+    "id": "975f1dac-392a-4009-9e44-901060186ded",
+    "description": "LV/LV Auxiliary Transformer for Block 6",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942738))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 6
+    }
+  },
+  {
+    "name": "AUXTRF07",
+    "category": "Electrical > Transformers > LV/LV Auxiliary Transformers",
+    "status": "Specified",
+    "id": "04c33653-33df-482d-886a-019ebc45d0ba",
+    "description": "LV/LV Auxiliary Transformer for Block 7",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942742))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 7
+    }
+  },
+  {
+    "name": "AUXTRF08",
+    "category": "Electrical > Transformers > LV/LV Auxiliary Transformers",
+    "status": "Specified",
+    "id": "563a6d5c-8abb-428d-bed4-ba2de6ce8d5f",
+    "description": "LV/LV Auxiliary Transformer for Block 8",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942747))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 8
+    }
+  },
+  {
+    "name": "AUXTRF09",
+    "category": "Electrical > Transformers > LV/LV Auxiliary Transformers",
+    "status": "Specified",
+    "id": "a92ae822-14db-4e3f-a7fe-98586bb78157",
+    "description": "LV/LV Auxiliary Transformer for Block 9",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942752))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 9
+    }
+  },
+  {
+    "name": "AUXTRF10",
+    "category": "Electrical > Transformers > LV/LV Auxiliary Transformers",
+    "status": "Specified",
+    "id": "53beea92-c298-4289-b814-bf36ee67b6b1",
+    "description": "LV/LV Auxiliary Transformer for Block 10",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942756))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 10
+    }
+  },
+  {
+    "name": "AUXTRF11",
+    "category": "Electrical > Transformers > LV/LV Auxiliary Transformers",
+    "status": "Specified",
+    "id": "e86eb2df-4f3e-485e-a120-ba205f1de6e8",
+    "description": "LV/LV Auxiliary Transformer for Block 11",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942761))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 11
+    }
+  },
+  {
+    "name": "AUXTRF12",
+    "category": "Electrical > Transformers > LV/LV Auxiliary Transformers",
+    "status": "Specified",
+    "id": "0c380a63-b31a-47d4-aaa4-0defb71a7e8c",
+    "description": "LV/LV Auxiliary Transformer for Block 12",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942766))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 12
+    }
+  },
+  {
+    "name": "AUXTRF13",
+    "category": "Electrical > Transformers > LV/LV Auxiliary Transformers",
+    "status": "Specified",
+    "id": "745287b4-b84d-423f-b8d1-5b686ced945f",
+    "description": "LV/LV Auxiliary Transformer for Block 13",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942771))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 13
+    }
+  },
+  {
+    "name": "AUXTRF14",
+    "category": "Electrical > Transformers > LV/LV Auxiliary Transformers",
+    "status": "Specified",
+    "id": "d504d6f8-b898-4d86-afda-5f348c8708a0",
+    "description": "LV/LV Auxiliary Transformer for Block 14",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942776))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 14
+    }
+  },
+  {
+    "name": "AUXTRF15",
+    "category": "Electrical > Transformers > LV/LV Auxiliary Transformers",
+    "status": "Specified",
+    "id": "65a49388-310b-41ba-b7b3-3ce284ab604f",
+    "description": "LV/LV Auxiliary Transformer for Block 15",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942794))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 15
+    }
+  },
+  {
+    "name": "AUXTRF16",
+    "category": "Electrical > Transformers > LV/LV Auxiliary Transformers",
+    "status": "Specified",
+    "id": "060cd0a9-dd65-4b36-9c50-7fee4da252e1",
+    "description": "LV/LV Auxiliary Transformer for Block 16",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942799))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 16
+    }
+  },
+  {
+    "name": "RMU-01",
+    "category": "Electrical > Switchgear > Ring Main Units",
+    "status": "Specified",
+    "id": "14f575fc-576f-481d-a8f8-d16f4dd357eb",
+    "description": "Ring Main Unit for Block 1",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942804))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 1
+    }
+  },
+  {
+    "name": "RMU-02",
+    "category": "Electrical > Switchgear > Ring Main Units",
+    "status": "Specified",
+    "id": "da95f43f-44f0-4ec5-8590-4c031925a9a9",
+    "description": "Ring Main Unit for Block 2",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942811))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 2
+    }
+  },
+  {
+    "name": "RMU-03",
+    "category": "Electrical > Switchgear > Ring Main Units",
+    "status": "Specified",
+    "id": "00df9b65-fba1-4007-b573-b51151e89fb3",
+    "description": "Ring Main Unit for Block 3",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942824))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 3
+    }
+  },
+  {
+    "name": "RMU-04",
+    "category": "Electrical > Switchgear > Ring Main Units",
+    "status": "Specified",
+    "id": "a852f6d1-382f-49ea-92df-9273a94538c3",
+    "description": "Ring Main Unit for Block 4",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942829))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 4
+    }
+  },
+  {
+    "name": "RMU-05",
+    "category": "Electrical > Switchgear > Ring Main Units",
+    "status": "Specified",
+    "id": "d8f8d5e3-1558-4eb3-b7e1-7d5eef3447d1",
+    "description": "Ring Main Unit for Block 5",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942834))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 5
+    }
+  },
+  {
+    "name": "RMU-06",
+    "category": "Electrical > Switchgear > Ring Main Units",
+    "status": "Specified",
+    "id": "b71b81fc-6659-41d2-862e-05699456bcef",
+    "description": "Ring Main Unit for Block 6",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942839))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 6
+    }
+  },
+  {
+    "name": "RMU-07",
+    "category": "Electrical > Switchgear > Ring Main Units",
+    "status": "Specified",
+    "id": "d7fcb1af-1143-4466-b404-ddde7dbd098a",
+    "description": "Ring Main Unit for Block 7",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942843))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 7
+    }
+  },
+  {
+    "name": "RMU-08",
+    "category": "Electrical > Switchgear > Ring Main Units",
+    "status": "Specified",
+    "id": "6e739176-8024-4faa-9e95-107f04b62888",
+    "description": "Ring Main Unit for Block 8",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942848))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 8
+    }
+  },
+  {
+    "name": "RMU-09",
+    "category": "Electrical > Switchgear > Ring Main Units",
+    "status": "Specified",
+    "id": "1fb82f1b-0451-49a2-aeab-67f781f50567",
+    "description": "Ring Main Unit for Block 9",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942853))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 9
+    }
+  },
+  {
+    "name": "RMU-10",
+    "category": "Electrical > Switchgear > Ring Main Units",
+    "status": "Specified",
+    "id": "e54f5714-da40-447b-b9e1-2cf8b8999dea",
+    "description": "Ring Main Unit for Block 10",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942860))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 10
+    }
+  },
+  {
+    "name": "RMU-11",
+    "category": "Electrical > Switchgear > Ring Main Units",
+    "status": "Specified",
+    "id": "e2bec864-66de-4c40-97c3-ee0f26d2ff4d",
+    "description": "Ring Main Unit for Block 11",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942864))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 11
+    }
+  },
+  {
+    "name": "RMU-12",
+    "category": "Electrical > Switchgear > Ring Main Units",
+    "status": "Specified",
+    "id": "0305110c-4a89-426f-8bed-d1733cf0606a",
+    "description": "Ring Main Unit for Block 12",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942869))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 12
+    }
+  },
+  {
+    "name": "RMU-13",
+    "category": "Electrical > Switchgear > Ring Main Units",
+    "status": "Specified",
+    "id": "d087b345-9b61-42a1-847f-4fab1dd99743",
+    "description": "Ring Main Unit for Block 13",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942874))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 13
+    }
+  },
+  {
+    "name": "RMU-14",
+    "category": "Electrical > Switchgear > Ring Main Units",
+    "status": "Specified",
+    "id": "17a468e9-cfd5-4c9c-b545-29e9cbb46464",
+    "description": "Ring Main Unit for Block 14",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942879))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 14
+    }
+  },
+  {
+    "name": "RMU-15",
+    "category": "Electrical > Switchgear > Ring Main Units",
+    "status": "Specified",
+    "id": "1725f0af-65d6-4791-9481-a71fdbdb4106",
+    "description": "Ring Main Unit for Block 15",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942884))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 15
+    }
+  },
+  {
+    "name": "RMU-16",
+    "category": "Electrical > Switchgear > Ring Main Units",
+    "status": "Specified",
+    "id": "5d20c7e7-4600-42e0-b318-7bc3e69f2bcd",
+    "description": "Ring Main Unit for Block 16",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942889))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 16
+    }
+  },
+  {
+    "name": "RMU-01/1",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "aca14d21-6bba-4d47-b7c5-b70ca09ca97d",
+    "description": "Switchgear 1 in RMU-01",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942897))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 1,
+      "switchgear_position": 1
+    }
+  },
+  {
+    "name": "RMU-01/2",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "5c130ab5-a74b-44aa-95d9-85aa2c25d17c",
+    "description": "Switchgear 2 in RMU-01",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942903))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 1,
+      "switchgear_position": 2
+    }
+  },
+  {
+    "name": "RMU-01/3",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "5c54b40d-7784-4dc9-b849-21775ab86323",
+    "description": "Switchgear 3 in RMU-01",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942911))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 1,
+      "switchgear_position": 3
+    }
+  },
+  {
+    "name": "RMU-02/1",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "004e2b01-2431-412c-b081-865c3b1acb58",
+    "description": "Switchgear 1 in RMU-02",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942917))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 2,
+      "switchgear_position": 1
+    }
+  },
+  {
+    "name": "RMU-02/2",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "ea4add96-f839-4753-914d-6a10cf22d452",
+    "description": "Switchgear 2 in RMU-02",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942922))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 2,
+      "switchgear_position": 2
+    }
+  },
+  {
+    "name": "RMU-02/3",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "048ee034-ca8b-485a-8bae-47729932836c",
+    "description": "Switchgear 3 in RMU-02",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942927))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 2,
+      "switchgear_position": 3
+    }
+  },
+  {
+    "name": "RMU-03/1",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "615ffde9-ef7f-4ef3-85f8-3859612b2541",
+    "description": "Switchgear 1 in RMU-03",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942932))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 3,
+      "switchgear_position": 1
+    }
+  },
+  {
+    "name": "RMU-03/2",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "d15b5b31-2a1f-4ade-b404-ae6ff44c4df5",
+    "description": "Switchgear 2 in RMU-03",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942937))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 3,
+      "switchgear_position": 2
+    }
+  },
+  {
+    "name": "RMU-03/3",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "83f08e6b-1c0d-4b2c-8929-7410f68918d1",
+    "description": "Switchgear 3 in RMU-03",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942942))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 3,
+      "switchgear_position": 3
+    }
+  },
+  {
+    "name": "RMU-04/1",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "e27f71b3-3990-452a-9bdd-3042878731a5",
+    "description": "Switchgear 1 in RMU-04",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942947))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 4,
+      "switchgear_position": 1
+    }
+  },
+  {
+    "name": "RMU-04/2",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "ff15258d-d0d0-4661-85d0-fb255b3e24d7",
+    "description": "Switchgear 2 in RMU-04",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942952))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 4,
+      "switchgear_position": 2
+    }
+  },
+  {
+    "name": "RMU-04/3",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "a21a2611-9f87-498e-9737-f633a4bc385f",
+    "description": "Switchgear 3 in RMU-04",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942957))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 4,
+      "switchgear_position": 3
+    }
+  },
+  {
+    "name": "RMU-05/1",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "3feb981b-0732-4c30-838d-3499288a2bf1",
+    "description": "Switchgear 1 in RMU-05",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942964))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 5,
+      "switchgear_position": 1
+    }
+  },
+  {
+    "name": "RMU-05/2",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "3d52685b-862d-4b41-bec2-063a0aa218a4",
+    "description": "Switchgear 2 in RMU-05",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942969))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 5,
+      "switchgear_position": 2
+    }
+  },
+  {
+    "name": "RMU-05/3",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "c1aebb22-d8d2-452c-aedb-2a1a0ac65b1e",
+    "description": "Switchgear 3 in RMU-05",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942974))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 5,
+      "switchgear_position": 3
+    }
+  },
+  {
+    "name": "RMU-06/1",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "2f8254e5-d31a-4626-8ed6-07267b26eba2",
+    "description": "Switchgear 1 in RMU-06",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942979))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 6,
+      "switchgear_position": 1
+    }
+  },
+  {
+    "name": "RMU-06/2",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "32d7333f-5592-4f90-ba58-8cedce800af8",
+    "description": "Switchgear 2 in RMU-06",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942984))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 6,
+      "switchgear_position": 2
+    }
+  },
+  {
+    "name": "RMU-06/3",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "850b6a62-4076-4aa9-a255-5904d56d077e",
+    "description": "Switchgear 3 in RMU-06",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 942995))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 6,
+      "switchgear_position": 3
+    }
+  },
+  {
+    "name": "RMU-07/1",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "33d479c8-8202-4f04-ad92-2615d3687345",
+    "description": "Switchgear 1 in RMU-07",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943000))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 7,
+      "switchgear_position": 1
+    }
+  },
+  {
+    "name": "RMU-07/2",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "7a5f3ed8-b47f-4c2c-80cb-19d825a6df90",
+    "description": "Switchgear 2 in RMU-07",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943005))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 7,
+      "switchgear_position": 2
+    }
+  },
+  {
+    "name": "RMU-07/3",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "ca490e80-3f34-46d9-b2e3-beceb1455004",
+    "description": "Switchgear 3 in RMU-07",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943010))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 7,
+      "switchgear_position": 3
+    }
+  },
+  {
+    "name": "RMU-08/1",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "f2ea14b4-9c2b-4f29-9f2a-d465550c3f9b",
+    "description": "Switchgear 1 in RMU-08",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943015))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 8,
+      "switchgear_position": 1
+    }
+  },
+  {
+    "name": "RMU-08/2",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "198820ae-d35c-4ba6-a882-de67dbe295a4",
+    "description": "Switchgear 2 in RMU-08",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943020))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 8,
+      "switchgear_position": 2
+    }
+  },
+  {
+    "name": "RMU-08/3",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "f4359cb5-e7d4-4b3e-968d-201c6721689a",
+    "description": "Switchgear 3 in RMU-08",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943024))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 8,
+      "switchgear_position": 3
+    }
+  },
+  {
+    "name": "RMU-09/1",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "e000c991-6900-472d-a5b6-cacba7ee0955",
+    "description": "Switchgear 1 in RMU-09",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943029))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 9,
+      "switchgear_position": 1
+    }
+  },
+  {
+    "name": "RMU-09/2",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "7b30ed26-e726-4e46-bfac-10a3b5167c28",
+    "description": "Switchgear 2 in RMU-09",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943036))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 9,
+      "switchgear_position": 2
+    }
+  },
+  {
+    "name": "RMU-09/3",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "f58a4101-910e-4b3a-8b19-fb33ce453217",
+    "description": "Switchgear 3 in RMU-09",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943041))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 9,
+      "switchgear_position": 3
+    }
+  },
+  {
+    "name": "RMU-10/1",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "964dc78a-ca86-4ce2-aa21-c56d48b90860",
+    "description": "Switchgear 1 in RMU-10",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943046))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 10,
+      "switchgear_position": 1
+    }
+  },
+  {
+    "name": "RMU-10/2",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "16112227-d5b3-47de-822b-daed29f728ab",
+    "description": "Switchgear 2 in RMU-10",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943051))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 10,
+      "switchgear_position": 2
+    }
+  },
+  {
+    "name": "RMU-10/3",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "b98c6219-2930-4953-88fe-05ccbb736134",
+    "description": "Switchgear 3 in RMU-10",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943058))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 10,
+      "switchgear_position": 3
+    }
+  },
+  {
+    "name": "RMU-11/1",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "4b0624c8-d7c8-49d2-a78a-51f620ebf5ff",
+    "description": "Switchgear 1 in RMU-11",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943063))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 11,
+      "switchgear_position": 1
+    }
+  },
+  {
+    "name": "RMU-11/2",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "bbb357d6-6daf-4e83-9ac6-7a81718b3042",
+    "description": "Switchgear 2 in RMU-11",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943068))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 11,
+      "switchgear_position": 2
+    }
+  },
+  {
+    "name": "RMU-11/3",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "22c85a93-c793-4532-a28b-71600d8441a0",
+    "description": "Switchgear 3 in RMU-11",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943073))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 11,
+      "switchgear_position": 3
+    }
+  },
+  {
+    "name": "RMU-12/1",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "4ce644bf-f492-484b-8093-878f148b1412",
+    "description": "Switchgear 1 in RMU-12",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943078))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 12,
+      "switchgear_position": 1
+    }
+  },
+  {
+    "name": "RMU-12/2",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "fc1a970f-6c03-46b5-a252-96dc194167a3",
+    "description": "Switchgear 2 in RMU-12",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943084))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 12,
+      "switchgear_position": 2
+    }
+  },
+  {
+    "name": "RMU-12/3",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "a54a10d9-79a4-4b8d-afd5-11560da712b5",
+    "description": "Switchgear 3 in RMU-12",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943089))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 12,
+      "switchgear_position": 3
+    }
+  },
+  {
+    "name": "RMU-13/1",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "a55903b2-9e19-4c91-b48a-c4d10bcd74da",
+    "description": "Switchgear 1 in RMU-13",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943094))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 13,
+      "switchgear_position": 1
+    }
+  },
+  {
+    "name": "RMU-13/2",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "d81d17b3-85b6-46a5-b82f-691169434fde",
+    "description": "Switchgear 2 in RMU-13",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943098))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 13,
+      "switchgear_position": 2
+    }
+  },
+  {
+    "name": "RMU-13/3",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "7ed4f37f-c27e-4cf9-8c00-20346ba44855",
+    "description": "Switchgear 3 in RMU-13",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943105))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 13,
+      "switchgear_position": 3
+    }
+  },
+  {
+    "name": "RMU-14/1",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "8a9e7d80-834b-4379-a4d7-7212ebcaa043",
+    "description": "Switchgear 1 in RMU-14",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943111))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 14,
+      "switchgear_position": 1
+    }
+  },
+  {
+    "name": "RMU-14/2",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "66c79697-6aad-49be-8d55-6d66c47cb694",
+    "description": "Switchgear 2 in RMU-14",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943115))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 14,
+      "switchgear_position": 2
+    }
+  },
+  {
+    "name": "RMU-14/3",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "dc08afb6-ce0b-4417-a4bd-0f47fb318f8a",
+    "description": "Switchgear 3 in RMU-14",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943120))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 14,
+      "switchgear_position": 3
+    }
+  },
+  {
+    "name": "RMU-15/1",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "b6edd373-a1a7-49a7-b2be-87423add1c99",
+    "description": "Switchgear 1 in RMU-15",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943125))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 15,
+      "switchgear_position": 1
+    }
+  },
+  {
+    "name": "RMU-15/2",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "bf604b1f-1351-457e-9bee-3c5a9abca512",
+    "description": "Switchgear 2 in RMU-15",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943130))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 15,
+      "switchgear_position": 2
+    }
+  },
+  {
+    "name": "RMU-15/3",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "83f29dee-2028-4a50-9378-87e27c84abf9",
+    "description": "Switchgear 3 in RMU-15",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943137))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 15,
+      "switchgear_position": 3
+    }
+  },
+  {
+    "name": "RMU-16/1",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "962311ae-3cd3-493b-ab7d-8c35c5d8cdb7",
+    "description": "Switchgear 1 in RMU-16",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943142))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 16,
+      "switchgear_position": 1
+    }
+  },
+  {
+    "name": "RMU-16/2",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "82004d87-f1b4-4a91-ac94-7b3f05656322",
+    "description": "Switchgear 2 in RMU-16",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943147))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 16,
+      "switchgear_position": 2
+    }
+  },
+  {
+    "name": "RMU-16/3",
+    "category": "Electrical > Switchgear",
+    "status": "Specified",
+    "id": "803484dc-ef29-4b7a-939b-23236e444f4b",
+    "description": "Switchgear 3 in RMU-16",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943152))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "block_number": 16,
+      "switchgear_position": 3
+    }
+  },
+  {
+    "name": "SUB-01",
+    "category": "Electrical > Substations > 33/66kV Substation",
+    "status": "Specified",
+    "id": "ce5a0dd0-c088-44c3-8f75-82ba97ecf150",
+    "description": "Main 33/66kV Substation",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943156))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {}
+  },
+  {
+    "name": "SUBF-01",
+    "category": "Electrical > Feeders > 33kV Substation Feeders",
+    "status": "Specified",
+    "id": "eb6e43d6-7536-4997-bc95-1d54aaad24d1",
+    "description": "33kV Substation Feeder 1",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943163))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "feeder_number": 1
+    }
+  },
+  {
+    "name": "SUBF-02",
+    "category": "Electrical > Feeders > 33kV Substation Feeders",
+    "status": "Specified",
+    "id": "0d1ba6e6-5371-42e4-8f42-167a80d74b8f",
+    "description": "33kV Substation Feeder 2",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943170))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "feeder_number": 2
+    }
+  },
+  {
+    "name": "SUBF-03",
+    "category": "Electrical > Feeders > 33kV Substation Feeders",
+    "status": "Specified",
+    "id": "12d6457f-f9a6-458a-b315-cc011875a7ba",
+    "description": "33kV Substation Feeder 3",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943177))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "feeder_number": 3
+    }
+  },
+  {
+    "name": "SUBF-04",
+    "category": "Electrical > Feeders > 33kV Substation Feeders",
+    "status": "Specified",
+    "id": "d5b6de68-85e7-4ebf-b556-2be488262166",
+    "description": "33kV Substation Feeder 4",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943182))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "feeder_number": 4
+    }
+  },
+  {
+    "name": "SUBF-05",
+    "category": "Electrical > Feeders > 33kV Substation Feeders",
+    "status": "Specified",
+    "id": "ed07ec69-c229-4ef3-8f50-12a0664bc179",
+    "description": "33kV Substation Feeder 5",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943186))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "feeder_number": 5
+    }
+  },
+  {
+    "name": "AUXSUBTRF",
+    "category": "Electrical > Transformers > MV/LV Auxiliary Transformers",
+    "status": "Specified",
+    "id": "2a1d190a-97f1-4317-8051-381c631c8098",
+    "description": "MV/LV Auxiliary Transformer at Substation",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943191))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {}
+  },
+  {
+    "name": "WS-01",
+    "category": "SCADA > Meteorological Stations",
+    "status": "Specified",
+    "id": "924bbb36-b533-4d08-851c-ed8f94d593a4",
+    "description": "Autonomous Weather Station",
+    "data_completeness": "DataCompleteness.INSUFFICIENT",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-GE-RPT-0001-C2', extraction_method='equipment_labeling_spec', confidence=0.9, source_page=None, extracted_at=datetime.datetime(2026, 1, 11, 9, 40, 36, 943196))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {}
+  }
+]

@@ -1,0 +1,20 @@
+KEY GOONUMBLA DOCUMENTS TO REVIEW FOR ASSET DATA
+
+SOLAR FARM:
+1. GOO-ISE-GE-DRW-0001-C1_DRAWING LIST (PV PLANT).pdf - Master index
+2. GOO-ISE-GE-RPT-0002-C1_Report (Technical and General Statement).pdf - Technical overview
+3. GOO-ISE-GE-RPT-0001-C2_Electrical and I_C Equipment Labelling.pdf - Equipment labels/IDs
+4. GOO-ISE-GE-SPE-0001-A3_PHOTOVOLTAIC MODULE TECHNICAL SPECIFICATION.pdf - PV module specs
+5. GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf - MV cables (already extracted)
+6. GOO-ISE-EL-CAL-0002-C1_Low Voltage (DC) Calculation.pdf - DC cables
+7. Solar Farm single-line diagram (find it)
+8. Solar Farm layout/general arrangement (find it)
+
+SUBSTATION:
+9. GOO-YUR-EL-DRW-0530-02_C2 11B4.2 – EQUIPMENT LIST.pdf - Equipment list
+10. GOO-YUR-EL-DRW-0531-02_C2 11B4.1 REB01 BZ Equip List.pdf - Equipment list
+11. Substation single-line diagram (find it)
+12. Substation cable schedule (find it)
+13. Vendor drawings for major equipment (transformer, CT, VT)
+14. Protection relay schedules (find them)
+15. Control panel schedules (find them)

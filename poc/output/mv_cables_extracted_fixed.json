@@ -1,0 +1,962 @@
+[
+  {
+    "name": "MV-CABLE-MV-1-/-BL-08-/-BL-07",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "77181a07-88bf-490d-80a1-b335498d3391",
+    "description": "MV Cable from MV-1 / BL-08 / BL-07 to MV-1 / BL-08 / BL-07",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 15, 872023))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "240mm\u00b2",
+      "length_m": 460.0,
+      "from_location": "MV-1 / BL-08 / BL-07",
+      "to_location": "MV-1 / BL-08 / BL-07"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 1"
+  },
+  {
+    "name": "MV-CABLE-MV-1-/-BL-07-/-BL-02",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "6c5aa9b5-44e5-42a3-a115-bd33ec74f762",
+    "description": "MV Cable from MV-1 / BL-07 / BL-02 to MV-1 / BL-07 / BL-02",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 15, 872098))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "300mm\u00b2",
+      "length_m": 1390.0,
+      "from_location": "MV-1 / BL-07 / BL-02",
+      "to_location": "MV-1 / BL-07 / BL-02"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 1"
+  },
+  {
+    "name": "MV-CABLE-MV-1-/-BL-02-/-BL-01",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "cde3f19d-3c4c-41b1-b1b0-8f410124d06e",
+    "description": "MV Cable from MV-1 / BL-02 / BL-01 to MV-1 / BL-02 / BL-01",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 15, 872117))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "500mm\u00b2",
+      "length_m": 603.0,
+      "from_location": "MV-1 / BL-02 / BL-01",
+      "to_location": "MV-1 / BL-02 / BL-01"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 1"
+  },
+  {
+    "name": "MV-CABLE-MV-1-/-BL-01-/-SUBSTATION",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "c1ae9cdb-c8cc-4542-a152-6fc6e4e62173",
+    "description": "MV Cable from MV-1 / BL-01 / SUBSTATION to MV-1 / BL-01 / SUBSTATION",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 15, 872133))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "630mm\u00b2",
+      "length_m": 342.0,
+      "from_location": "MV-1 / BL-01 / SUBSTATION",
+      "to_location": "MV-1 / BL-01 / SUBSTATION"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 1"
+  },
+  {
+    "name": "MV-CABLE-MV-2-/-BL-10-/-BL-09",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "3745037a-928e-4423-a535-389463e49807",
+    "description": "MV Cable from MV-2 / BL-10 / BL-09 to MV-2 / BL-10 / BL-09",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 15, 872153))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "240mm\u00b2",
+      "length_m": 514.0,
+      "from_location": "MV-2 / BL-10 / BL-09",
+      "to_location": "MV-2 / BL-10 / BL-09"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 2"
+  },
+  {
+    "name": "MV-CABLE-MV-2-/-BL-09-/-BL-05",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "90ad5d6e-33b5-4de1-8ab7-53585b872d68",
+    "description": "MV Cable from MV-2 / BL-09 / BL-05 to MV-2 / BL-09 / BL-05",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 15, 872165))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "300mm\u00b2",
+      "length_m": 1552.0,
+      "from_location": "MV-2 / BL-09 / BL-05",
+      "to_location": "MV-2 / BL-09 / BL-05"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 2"
+  },
+  {
+    "name": "MV-CABLE-MV-2-/-BL-05-/-BL-03",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "8e4e4d24-e25e-4379-8077-9df862208b88",
+    "description": "MV Cable from MV-2 / BL-05 / BL-03 to MV-2 / BL-05 / BL-03",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 15, 872176))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "500mm\u00b2",
+      "length_m": 641.0,
+      "from_location": "MV-2 / BL-05 / BL-03",
+      "to_location": "MV-2 / BL-05 / BL-03"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 2"
+  },
+  {
+    "name": "MV-CABLE-MV-2-/-BL-03-/-SUBSTATION",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "5dd985b0-f89e-4a7f-99a5-18ddfa773474",
+    "description": "MV Cable from MV-2 / BL-03 / SUBSTATION to MV-2 / BL-03 / SUBSTATION",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 15, 872187))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "630mm\u00b2",
+      "length_m": 593.0,
+      "from_location": "MV-2 / BL-03 / SUBSTATION",
+      "to_location": "MV-2 / BL-03 / SUBSTATION"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 2"
+  },
+  {
+    "name": "MV-CABLE-MV-3-/-BL-13-/-BL-12",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "46bd89e8-6543-457c-acd3-d0aecc5b29c5",
+    "description": "MV Cable from MV-3 / BL-13 / BL-12 to MV-3 / BL-13 / BL-12",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 15, 872203))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "240mm\u00b2",
+      "length_m": 429.0,
+      "from_location": "MV-3 / BL-13 / BL-12",
+      "to_location": "MV-3 / BL-13 / BL-12"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 3"
+  },
+  {
+    "name": "MV-CABLE-MV-3-/-BL-12-/-BL-11",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "37a6e66d-1171-4c2c-8cda-f2517be930d6",
+    "description": "MV Cable from MV-3 / BL-12 / BL-11 to MV-3 / BL-12 / BL-11",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 15, 872213))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "300mm\u00b2",
+      "length_m": 389.0,
+      "from_location": "MV-3 / BL-12 / BL-11",
+      "to_location": "MV-3 / BL-12 / BL-11"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 3"
+  },
+  {
+    "name": "MV-CABLE-MV-3-/-BL-11-/-BL-04",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "4a6c0906-96b4-4246-b4bf-3dd1d0bea031",
+    "description": "MV Cable from MV-3 / BL-11 / BL-04 to MV-3 / BL-11 / BL-04",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 15, 872223))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "500mm\u00b2",
+      "length_m": 1412.0,
+      "from_location": "MV-3 / BL-11 / BL-04",
+      "to_location": "MV-3 / BL-11 / BL-04"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 3"
+  },
+  {
+    "name": "MV-CABLE-MV-3-/-BL-04-/-SUBSTATION",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "6a2f6c92-8d00-451c-a977-c4ef72c90c72",
+    "description": "MV Cable from MV-3 / BL-04 / SUBSTATION to MV-3 / BL-04 / SUBSTATION",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 15, 872233))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "630mm\u00b2",
+      "length_m": 481.0,
+      "from_location": "MV-3 / BL-04 / SUBSTATION",
+      "to_location": "MV-3 / BL-04 / SUBSTATION"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 3"
+  },
+  {
+    "name": "MV-CABLE-MV-4-/-BL-16-/-BL-15",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "fc4b4448-eff0-4795-a19a-24125ea4581f",
+    "description": "MV Cable from MV-4 / BL-16 / BL-15 to MV-4 / BL-16 / BL-15",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 15, 872243))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "240mm\u00b2",
+      "length_m": 502.0,
+      "from_location": "MV-4 / BL-16 / BL-15",
+      "to_location": "MV-4 / BL-16 / BL-15"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 4"
+  },
+  {
+    "name": "MV-CABLE-MV-4-/-BL-15-/-BL-14",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "226f2dd0-0436-43a4-a38e-20883217452c",
+    "description": "MV Cable from MV-4 / BL-15 / BL-14 to MV-4 / BL-15 / BL-14",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 15, 872253))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "300mm\u00b2",
+      "length_m": 397.0,
+      "from_location": "MV-4 / BL-15 / BL-14",
+      "to_location": "MV-4 / BL-15 / BL-14"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 4"
+  },
+  {
+    "name": "MV-CABLE-MV-4-/-BL-14-/-BL-06",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "074406cc-16ab-48ed-b77b-39253b242d16",
+    "description": "MV Cable from MV-4 / BL-14 / BL-06 to MV-4 / BL-14 / BL-06",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 15, 872261))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "500mm\u00b2",
+      "length_m": 1273.0,
+      "from_location": "MV-4 / BL-14 / BL-06",
+      "to_location": "MV-4 / BL-14 / BL-06"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 4"
+  },
+  {
+    "name": "MV-CABLE-MV-4-/-BL-06-/-SUBSTATION",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "97f3e251-f6a9-441f-9d38-2c7d61088ddf",
+    "description": "MV Cable from MV-4 / BL-06 / SUBSTATION to MV-4 / BL-06 / SUBSTATION",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=12, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 15, 872271))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "630mm\u00b2",
+      "length_m": 1307.0,
+      "from_location": "MV-4 / BL-06 / SUBSTATION",
+      "to_location": "MV-4 / BL-06 / SUBSTATION"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 4"
+  },
+  {
+    "name": "MV-CABLE-MV-1-/-BL-08-/-BL-07",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "77d77edd-fd8a-4194-b0b4-80cdad51194b",
+    "description": "MV Cable from MV-1 / BL-08 / BL-07 to MV-1 / BL-08 / BL-07",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 205002))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "240mm\u00b2",
+      "length_m": 460.0,
+      "from_location": "MV-1 / BL-08 / BL-07",
+      "to_location": "MV-1 / BL-08 / BL-07"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 1"
+  },
+  {
+    "name": "MV-CABLE-MV-1-/-BL-07-/-BL-02",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "a2165572-eaf4-4662-9297-9d607d15091b",
+    "description": "MV Cable from MV-1 / BL-07 / BL-02 to MV-1 / BL-07 / BL-02",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 205058))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "300mm\u00b2",
+      "length_m": 1390.0,
+      "from_location": "MV-1 / BL-07 / BL-02",
+      "to_location": "MV-1 / BL-07 / BL-02"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 1"
+  },
+  {
+    "name": "MV-CABLE-MV-1-/-BL-02-/-BL-01",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "12132be1-b280-4f56-b588-6c79a0eef289",
+    "description": "MV Cable from MV-1 / BL-02 / BL-01 to MV-1 / BL-02 / BL-01",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 205072))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "500mm\u00b2",
+      "length_m": 603.0,
+      "from_location": "MV-1 / BL-02 / BL-01",
+      "to_location": "MV-1 / BL-02 / BL-01"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 1"
+  },
+  {
+    "name": "MV-CABLE-MV-1-/-BL-01-/-SUBSTATION",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "5b4136a7-cc8e-4558-8d6b-a291924c070c",
+    "description": "MV Cable from MV-1 / BL-01 / SUBSTATION to MV-1 / BL-01 / SUBSTATION",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 205084))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "630mm\u00b2",
+      "length_m": 342.0,
+      "from_location": "MV-1 / BL-01 / SUBSTATION",
+      "to_location": "MV-1 / BL-01 / SUBSTATION"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 1"
+  },
+  {
+    "name": "MV-CABLE-MV-2-/-BL-10-/-BL-09",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "3a0b8e94-e663-4206-8a95-bde29a7eacaa",
+    "description": "MV Cable from MV-2 / BL-10 / BL-09 to MV-2 / BL-10 / BL-09",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 205094))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "240mm\u00b2",
+      "length_m": 514.0,
+      "from_location": "MV-2 / BL-10 / BL-09",
+      "to_location": "MV-2 / BL-10 / BL-09"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 2"
+  },
+  {
+    "name": "MV-CABLE-MV-2-/-BL-09-/-BL-05",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "0cd38334-e1b2-4798-b68f-e44d8dc3e9aa",
+    "description": "MV Cable from MV-2 / BL-09 / BL-05 to MV-2 / BL-09 / BL-05",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 205104))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "300mm\u00b2",
+      "length_m": 1552.0,
+      "from_location": "MV-2 / BL-09 / BL-05",
+      "to_location": "MV-2 / BL-09 / BL-05"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 2"
+  },
+  {
+    "name": "MV-CABLE-MV-2-/-BL-05-/-BL-03",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "58cbaf20-27a7-4278-a79c-1a4c29090a9a",
+    "description": "MV Cable from MV-2 / BL-05 / BL-03 to MV-2 / BL-05 / BL-03",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 205114))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "500mm\u00b2",
+      "length_m": 641.0,
+      "from_location": "MV-2 / BL-05 / BL-03",
+      "to_location": "MV-2 / BL-05 / BL-03"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 2"
+  },
+  {
+    "name": "MV-CABLE-MV-2-/-BL-03-/-SUBSTATION",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "3af5342f-2409-4134-a168-aa013c02705a",
+    "description": "MV Cable from MV-2 / BL-03 / SUBSTATION to MV-2 / BL-03 / SUBSTATION",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 205123))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "630mm\u00b2",
+      "length_m": 593.0,
+      "from_location": "MV-2 / BL-03 / SUBSTATION",
+      "to_location": "MV-2 / BL-03 / SUBSTATION"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 2"
+  },
+  {
+    "name": "MV-CABLE-MV-3-/-BL-13-/-BL-12",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "eabdaf94-81e4-4791-bc78-bdf19043e50c",
+    "description": "MV Cable from MV-3 / BL-13 / BL-12 to MV-3 / BL-13 / BL-12",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 205132))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "240mm\u00b2",
+      "length_m": 429.0,
+      "from_location": "MV-3 / BL-13 / BL-12",
+      "to_location": "MV-3 / BL-13 / BL-12"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 3"
+  },
+  {
+    "name": "MV-CABLE-MV-3-/-BL-12-/-BL-11",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "55b45ef2-cf9a-48d3-992e-841daa97dc61",
+    "description": "MV Cable from MV-3 / BL-12 / BL-11 to MV-3 / BL-12 / BL-11",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 205140))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "300mm\u00b2",
+      "length_m": 389.0,
+      "from_location": "MV-3 / BL-12 / BL-11",
+      "to_location": "MV-3 / BL-12 / BL-11"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 3"
+  },
+  {
+    "name": "MV-CABLE-MV-3-/-BL-11-/-BL-04",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "f67227b3-8c3c-415c-8577-9ebf38e20650",
+    "description": "MV Cable from MV-3 / BL-11 / BL-04 to MV-3 / BL-11 / BL-04",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 205149))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "500mm\u00b2",
+      "length_m": 1412.0,
+      "from_location": "MV-3 / BL-11 / BL-04",
+      "to_location": "MV-3 / BL-11 / BL-04"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 3"
+  },
+  {
+    "name": "MV-CABLE-MV-3-/-BL-04-/-SUBSTATION",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "413ffebf-9e1e-4c7e-910c-6f7dc2a8907e",
+    "description": "MV Cable from MV-3 / BL-04 / SUBSTATION to MV-3 / BL-04 / SUBSTATION",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 205158))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "630mm\u00b2",
+      "length_m": 481.0,
+      "from_location": "MV-3 / BL-04 / SUBSTATION",
+      "to_location": "MV-3 / BL-04 / SUBSTATION"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 3"
+  },
+  {
+    "name": "MV-CABLE-MV-4-/-BL-16-/-BL-15",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "e300de11-7728-4335-983a-c69cb6e7a10e",
+    "description": "MV Cable from MV-4 / BL-16 / BL-15 to MV-4 / BL-16 / BL-15",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 205184))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "240mm\u00b2",
+      "length_m": 502.0,
+      "from_location": "MV-4 / BL-16 / BL-15",
+      "to_location": "MV-4 / BL-16 / BL-15"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 4"
+  },
+  {
+    "name": "MV-CABLE-MV-4-/-BL-15-/-BL-14",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "13e00bc9-07fb-45d9-bb4e-21ff4c87a6bd",
+    "description": "MV Cable from MV-4 / BL-15 / BL-14 to MV-4 / BL-15 / BL-14",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 205193))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "300mm\u00b2",
+      "length_m": 397.0,
+      "from_location": "MV-4 / BL-15 / BL-14",
+      "to_location": "MV-4 / BL-15 / BL-14"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 4"
+  },
+  {
+    "name": "MV-CABLE-MV-4-/-BL-14-/-BL-06",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "1210b726-6e0e-4967-a854-239ec9c6bdd8",
+    "description": "MV Cable from MV-4 / BL-14 / BL-06 to MV-4 / BL-14 / BL-06",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 205202))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "500mm\u00b2",
+      "length_m": 1273.0,
+      "from_location": "MV-4 / BL-14 / BL-06",
+      "to_location": "MV-4 / BL-14 / BL-06"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 4"
+  },
+  {
+    "name": "MV-CABLE-MV-4-/-BL-06-/-SUBSTATION",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "7c4111af-803c-42ce-8bef-74e65d9120ca",
+    "description": "MV Cable from MV-4 / BL-06 / SUBSTATION to MV-4 / BL-06 / SUBSTATION",
+    "data_completeness": "DataCompleteness.FULL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=13, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 205210))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": "630mm\u00b2",
+      "length_m": 1307.0,
+      "from_location": "MV-4 / BL-06 / SUBSTATION",
+      "to_location": "MV-4 / BL-06 / SUBSTATION"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 4"
+  },
+  {
+    "name": "MV-CABLE-MV-1-/-BL-08-/-BL-07",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "3fe8f710-faa2-4ad9-b357-fa472b0a2262",
+    "description": "MV Cable from MV-1 / BL-08 / BL-07 to MV-1 / BL-08 / BL-07",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 345960))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-1 / BL-08 / BL-07",
+      "to_location": "MV-1 / BL-08 / BL-07"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 1"
+  },
+  {
+    "name": "MV-CABLE-MV-1-/-BL-07-/-BL-02",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "5d43f38c-b37a-49a1-bdf7-a5bb0ce1a380",
+    "description": "MV Cable from MV-1 / BL-07 / BL-02 to MV-1 / BL-07 / BL-02",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 346013))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-1 / BL-07 / BL-02",
+      "to_location": "MV-1 / BL-07 / BL-02"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 1"
+  },
+  {
+    "name": "MV-CABLE-MV-1-/-BL-02-/-BL-01",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "46f929fb-bf34-4086-8c4f-018722dd42a5",
+    "description": "MV Cable from MV-1 / BL-02 / BL-01 to MV-1 / BL-02 / BL-01",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 346025))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-1 / BL-02 / BL-01",
+      "to_location": "MV-1 / BL-02 / BL-01"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 1"
+  },
+  {
+    "name": "MV-CABLE-MV-1-/-BL-01-/-SUBSTATION",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "d41a2e76-eef6-4ef7-aeba-3f96c63322d4",
+    "description": "MV Cable from MV-1 / BL-01 / SUBSTATION to MV-1 / BL-01 / SUBSTATION",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 346034))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-1 / BL-01 / SUBSTATION",
+      "to_location": "MV-1 / BL-01 / SUBSTATION"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 1"
+  },
+  {
+    "name": "MV-CABLE-MV-2-/-BL-10-/-BL-09",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "c6183caa-3076-4510-ab26-cd81acc63f64",
+    "description": "MV Cable from MV-2 / BL-10 / BL-09 to MV-2 / BL-10 / BL-09",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 346042))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-2 / BL-10 / BL-09",
+      "to_location": "MV-2 / BL-10 / BL-09"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 2"
+  },
+  {
+    "name": "MV-CABLE-MV-2-/-BL-09-/-BL-05",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "a107517c-01b3-4ea0-8811-98fffa7a37be",
+    "description": "MV Cable from MV-2 / BL-09 / BL-05 to MV-2 / BL-09 / BL-05",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 346049))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-2 / BL-09 / BL-05",
+      "to_location": "MV-2 / BL-09 / BL-05"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 2"
+  },
+  {
+    "name": "MV-CABLE-MV-2-/-BL-05-/-BL-03",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "8f529be3-052c-4118-bfdb-0a5681e0083a",
+    "description": "MV Cable from MV-2 / BL-05 / BL-03 to MV-2 / BL-05 / BL-03",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 346057))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-2 / BL-05 / BL-03",
+      "to_location": "MV-2 / BL-05 / BL-03"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 2"
+  },
+  {
+    "name": "MV-CABLE-MV-2-/-BL-03-/-SUBSTATION",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "e6b8943e-ab83-4397-a0ac-e9a8c0a76b2b",
+    "description": "MV Cable from MV-2 / BL-03 / SUBSTATION to MV-2 / BL-03 / SUBSTATION",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 346081))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-2 / BL-03 / SUBSTATION",
+      "to_location": "MV-2 / BL-03 / SUBSTATION"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 2"
+  },
+  {
+    "name": "MV-CABLE-MV-3-/-BL-13-/-BL-12",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "e3a79c33-c4bb-4d5d-9b2a-561085900ea6",
+    "description": "MV Cable from MV-3 / BL-13 / BL-12 to MV-3 / BL-13 / BL-12",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 346089))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-3 / BL-13 / BL-12",
+      "to_location": "MV-3 / BL-13 / BL-12"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 3"
+  },
+  {
+    "name": "MV-CABLE-MV-3-/-BL-12-/-BL-11",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "4c241261-e762-42ec-8835-41dd5f7d8002",
+    "description": "MV Cable from MV-3 / BL-12 / BL-11 to MV-3 / BL-12 / BL-11",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 346096))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-3 / BL-12 / BL-11",
+      "to_location": "MV-3 / BL-12 / BL-11"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 3"
+  },
+  {
+    "name": "MV-CABLE-MV-3-/-BL-11-/-BL-04",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "d666acd4-02e2-4402-9b2d-2640e17b4aba",
+    "description": "MV Cable from MV-3 / BL-11 / BL-04 to MV-3 / BL-11 / BL-04",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 346103))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-3 / BL-11 / BL-04",
+      "to_location": "MV-3 / BL-11 / BL-04"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 3"
+  },
+  {
+    "name": "MV-CABLE-MV-3-/-BL-04-/-SUBSTATION",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "edaf314d-9f5e-4d13-b1de-1509a64e4b75",
+    "description": "MV Cable from MV-3 / BL-04 / SUBSTATION to MV-3 / BL-04 / SUBSTATION",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 346111))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-3 / BL-04 / SUBSTATION",
+      "to_location": "MV-3 / BL-04 / SUBSTATION"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 3"
+  },
+  {
+    "name": "MV-CABLE-MV-4-/-BL-16-/-BL-15",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "16374c02-9358-4635-a3ba-bc5c69f3f5e4",
+    "description": "MV Cable from MV-4 / BL-16 / BL-15 to MV-4 / BL-16 / BL-15",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 346118))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-4 / BL-16 / BL-15",
+      "to_location": "MV-4 / BL-16 / BL-15"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 4"
+  },
+  {
+    "name": "MV-CABLE-MV-4-/-BL-15-/-BL-14",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "beeb8b6a-bf8a-4c9f-8993-a0155f7c9675",
+    "description": "MV Cable from MV-4 / BL-15 / BL-14 to MV-4 / BL-15 / BL-14",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 346125))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-4 / BL-15 / BL-14",
+      "to_location": "MV-4 / BL-15 / BL-14"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 4"
+  },
+  {
+    "name": "MV-CABLE-MV-4-/-BL-14-/-BL-06",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "d6e3aa16-eec0-4331-bb6f-f4b3e4e61576",
+    "description": "MV Cable from MV-4 / BL-14 / BL-06 to MV-4 / BL-14 / BL-06",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 346132))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-4 / BL-14 / BL-06",
+      "to_location": "MV-4 / BL-14 / BL-06"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 4"
+  },
+  {
+    "name": "MV-CABLE-MV-4-/-BL-06-/-SUBSTATION",
+    "category": "Electrical > Cables > MV Cables",
+    "status": "Specified",
+    "id": "2f1095b2-88da-49b6-a49c-5037b04cc312",
+    "description": "MV Cable from MV-4 / BL-06 / SUBSTATION to MV-4 / BL-06 / SUBSTATION",
+    "data_completeness": "DataCompleteness.PARTIAL",
+    "extraction_metadata": "ExtractionMetadata(source_document='GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf', extraction_method='pdf_table_extractor', confidence=0.9, source_page=14, extracted_at=datetime.datetime(2026, 1, 11, 23, 32, 16, 346139))",
+    "manufacturer": null,
+    "model": null,
+    "specifications": {
+      "cable_type": "MV Cable",
+      "conductor_size": null,
+      "length_m": null,
+      "from_location": "MV-4 / BL-06 / SUBSTATION",
+      "to_location": "MV-4 / BL-06 / SUBSTATION"
+    },
+    "type": "Medium Voltage Cable",
+    "location": "MV Line 4"
+  }
+]

@@ -1,0 +1,729 @@
+{
+  "project": "Goonumbla Solar Farm",
+  "extraction_sources": [
+    "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+  ],
+  "total_assets": 48,
+  "assets": [
+    {
+      "id": "d839b349-3247-4258-952c-fc59b9283c29",
+      "name": "DC-CABLE-MV-1-/-BL-08-/-BL-07",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-08 / BL-07 to MV-1 / BL-08 / BL-07",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "240mm\u00b2",
+        "length_m": 460.0,
+        "from_location": "MV-1 / BL-08 / BL-07",
+        "to_location": "MV-1 / BL-08 / BL-07"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "27b5ed08-ac15-4331-898c-4dde466c1b03",
+      "name": "DC-CABLE-MV-1-/-BL-07-/-BL-02",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-07 / BL-02 to MV-1 / BL-07 / BL-02",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "300mm\u00b2",
+        "length_m": 1390.0,
+        "from_location": "MV-1 / BL-07 / BL-02",
+        "to_location": "MV-1 / BL-07 / BL-02"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "fc920cdf-3c33-4f39-969b-2e78fba2c347",
+      "name": "DC-CABLE-MV-1-/-BL-02-/-BL-01",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-02 / BL-01 to MV-1 / BL-02 / BL-01",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "500mm\u00b2",
+        "length_m": 603.0,
+        "from_location": "MV-1 / BL-02 / BL-01",
+        "to_location": "MV-1 / BL-02 / BL-01"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "7b2f1e70-586c-41f6-a90f-d1e559f27117",
+      "name": "DC-CABLE-MV-1-/-BL-01-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-01 / SUBSTATION to MV-1 / BL-01 / SUBSTATION",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "630mm\u00b2",
+        "length_m": 342.0,
+        "from_location": "MV-1 / BL-01 / SUBSTATION",
+        "to_location": "MV-1 / BL-01 / SUBSTATION"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "0f0549f6-535d-4d30-bfaf-3ef45b1d70e2",
+      "name": "DC-CABLE-MV-2-/-BL-10-/-BL-09",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-10 / BL-09 to MV-2 / BL-10 / BL-09",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "240mm\u00b2",
+        "length_m": 514.0,
+        "from_location": "MV-2 / BL-10 / BL-09",
+        "to_location": "MV-2 / BL-10 / BL-09"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "4639c28a-f6fc-482e-bce1-919ec2b3d21d",
+      "name": "DC-CABLE-MV-2-/-BL-09-/-BL-05",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-09 / BL-05 to MV-2 / BL-09 / BL-05",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "300mm\u00b2",
+        "length_m": 1552.0,
+        "from_location": "MV-2 / BL-09 / BL-05",
+        "to_location": "MV-2 / BL-09 / BL-05"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "19077434-d1ce-4936-950d-7e4d3d98caa7",
+      "name": "DC-CABLE-MV-2-/-BL-05-/-BL-03",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-05 / BL-03 to MV-2 / BL-05 / BL-03",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "500mm\u00b2",
+        "length_m": 641.0,
+        "from_location": "MV-2 / BL-05 / BL-03",
+        "to_location": "MV-2 / BL-05 / BL-03"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "b28cb12c-19ac-4062-b250-be8458297379",
+      "name": "DC-CABLE-MV-2-/-BL-03-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-03 / SUBSTATION to MV-2 / BL-03 / SUBSTATION",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "630mm\u00b2",
+        "length_m": 593.0,
+        "from_location": "MV-2 / BL-03 / SUBSTATION",
+        "to_location": "MV-2 / BL-03 / SUBSTATION"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "a5ccd9ae-bbd6-48c1-81b3-0c64706bb28f",
+      "name": "DC-CABLE-MV-3-/-BL-13-/-BL-12",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-13 / BL-12 to MV-3 / BL-13 / BL-12",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "240mm\u00b2",
+        "length_m": 429.0,
+        "from_location": "MV-3 / BL-13 / BL-12",
+        "to_location": "MV-3 / BL-13 / BL-12"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "262ee586-6fc0-4871-b651-c7e9e204dc98",
+      "name": "DC-CABLE-MV-3-/-BL-12-/-BL-11",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-12 / BL-11 to MV-3 / BL-12 / BL-11",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "300mm\u00b2",
+        "length_m": 389.0,
+        "from_location": "MV-3 / BL-12 / BL-11",
+        "to_location": "MV-3 / BL-12 / BL-11"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "5b06dac9-0935-4471-aaec-156695073538",
+      "name": "DC-CABLE-MV-3-/-BL-11-/-BL-04",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-11 / BL-04 to MV-3 / BL-11 / BL-04",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "500mm\u00b2",
+        "length_m": 1412.0,
+        "from_location": "MV-3 / BL-11 / BL-04",
+        "to_location": "MV-3 / BL-11 / BL-04"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "fdf7ed17-b1e6-49fd-850f-674095df1efd",
+      "name": "DC-CABLE-MV-3-/-BL-04-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-04 / SUBSTATION to MV-3 / BL-04 / SUBSTATION",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "630mm\u00b2",
+        "length_m": 481.0,
+        "from_location": "MV-3 / BL-04 / SUBSTATION",
+        "to_location": "MV-3 / BL-04 / SUBSTATION"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "2091aab8-54ef-404b-a11a-1a1ed75f6aee",
+      "name": "DC-CABLE-MV-4-/-BL-16-/-BL-15",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-16 / BL-15 to MV-4 / BL-16 / BL-15",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "240mm\u00b2",
+        "length_m": 502.0,
+        "from_location": "MV-4 / BL-16 / BL-15",
+        "to_location": "MV-4 / BL-16 / BL-15"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "00f96f80-d46f-4442-8982-b5525d734601",
+      "name": "DC-CABLE-MV-4-/-BL-15-/-BL-14",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-15 / BL-14 to MV-4 / BL-15 / BL-14",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "300mm\u00b2",
+        "length_m": 397.0,
+        "from_location": "MV-4 / BL-15 / BL-14",
+        "to_location": "MV-4 / BL-15 / BL-14"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "d03be001-6672-4dad-bc82-b57f4b6f534d",
+      "name": "DC-CABLE-MV-4-/-BL-14-/-BL-06",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-14 / BL-06 to MV-4 / BL-14 / BL-06",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "500mm\u00b2",
+        "length_m": 1273.0,
+        "from_location": "MV-4 / BL-14 / BL-06",
+        "to_location": "MV-4 / BL-14 / BL-06"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "64c55f6a-2236-47a3-b714-b95936aac685",
+      "name": "DC-CABLE-MV-4-/-BL-06-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-06 / SUBSTATION to MV-4 / BL-06 / SUBSTATION",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "630mm\u00b2",
+        "length_m": 1307.0,
+        "from_location": "MV-4 / BL-06 / SUBSTATION",
+        "to_location": "MV-4 / BL-06 / SUBSTATION"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "4bda41b5-f295-47aa-8b68-40d83bfb943b",
+      "name": "DC-CABLE-MV-1-/-BL-08-/-BL-07",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-08 / BL-07 to MV-1 / BL-08 / BL-07",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "240mm\u00b2",
+        "length_m": 460.0,
+        "from_location": "MV-1 / BL-08 / BL-07",
+        "to_location": "MV-1 / BL-08 / BL-07"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "fce3e1c2-fa3a-48b9-9e57-e0da33a6d1fd",
+      "name": "DC-CABLE-MV-1-/-BL-07-/-BL-02",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-07 / BL-02 to MV-1 / BL-07 / BL-02",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "300mm\u00b2",
+        "length_m": 1390.0,
+        "from_location": "MV-1 / BL-07 / BL-02",
+        "to_location": "MV-1 / BL-07 / BL-02"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "c91a1681-7d9b-4907-9738-5be0b8dd5cb0",
+      "name": "DC-CABLE-MV-1-/-BL-02-/-BL-01",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-02 / BL-01 to MV-1 / BL-02 / BL-01",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "500mm\u00b2",
+        "length_m": 603.0,
+        "from_location": "MV-1 / BL-02 / BL-01",
+        "to_location": "MV-1 / BL-02 / BL-01"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "4c9dcb25-4cf5-46de-874e-bf9128ba2f09",
+      "name": "DC-CABLE-MV-1-/-BL-01-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-01 / SUBSTATION to MV-1 / BL-01 / SUBSTATION",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "630mm\u00b2",
+        "length_m": 342.0,
+        "from_location": "MV-1 / BL-01 / SUBSTATION",
+        "to_location": "MV-1 / BL-01 / SUBSTATION"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "b983fed9-e151-433f-8a2f-e79df850777e",
+      "name": "DC-CABLE-MV-2-/-BL-10-/-BL-09",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-10 / BL-09 to MV-2 / BL-10 / BL-09",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "240mm\u00b2",
+        "length_m": 514.0,
+        "from_location": "MV-2 / BL-10 / BL-09",
+        "to_location": "MV-2 / BL-10 / BL-09"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "ea28ebff-64bc-4528-b52c-4b37dac87661",
+      "name": "DC-CABLE-MV-2-/-BL-09-/-BL-05",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-09 / BL-05 to MV-2 / BL-09 / BL-05",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "300mm\u00b2",
+        "length_m": 1552.0,
+        "from_location": "MV-2 / BL-09 / BL-05",
+        "to_location": "MV-2 / BL-09 / BL-05"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "35a03dab-4e3c-45ea-80ab-da8517d591b3",
+      "name": "DC-CABLE-MV-2-/-BL-05-/-BL-03",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-05 / BL-03 to MV-2 / BL-05 / BL-03",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "500mm\u00b2",
+        "length_m": 641.0,
+        "from_location": "MV-2 / BL-05 / BL-03",
+        "to_location": "MV-2 / BL-05 / BL-03"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "06f6c351-eba6-4461-925d-5e10a25372de",
+      "name": "DC-CABLE-MV-2-/-BL-03-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-03 / SUBSTATION to MV-2 / BL-03 / SUBSTATION",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "630mm\u00b2",
+        "length_m": 593.0,
+        "from_location": "MV-2 / BL-03 / SUBSTATION",
+        "to_location": "MV-2 / BL-03 / SUBSTATION"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "e6d57878-eef3-409e-9675-fd0f9b65d4fd",
+      "name": "DC-CABLE-MV-3-/-BL-13-/-BL-12",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-13 / BL-12 to MV-3 / BL-13 / BL-12",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "240mm\u00b2",
+        "length_m": 429.0,
+        "from_location": "MV-3 / BL-13 / BL-12",
+        "to_location": "MV-3 / BL-13 / BL-12"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "1947a6d9-50ec-462c-98b6-d2217dfc16ab",
+      "name": "DC-CABLE-MV-3-/-BL-12-/-BL-11",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-12 / BL-11 to MV-3 / BL-12 / BL-11",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "300mm\u00b2",
+        "length_m": 389.0,
+        "from_location": "MV-3 / BL-12 / BL-11",
+        "to_location": "MV-3 / BL-12 / BL-11"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "e60fc759-7484-4dbb-ba01-022d83d27e67",
+      "name": "DC-CABLE-MV-3-/-BL-11-/-BL-04",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-11 / BL-04 to MV-3 / BL-11 / BL-04",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "500mm\u00b2",
+        "length_m": 1412.0,
+        "from_location": "MV-3 / BL-11 / BL-04",
+        "to_location": "MV-3 / BL-11 / BL-04"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "5164c9ad-9970-4fc4-ad8c-ce85eef7efd4",
+      "name": "DC-CABLE-MV-3-/-BL-04-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-04 / SUBSTATION to MV-3 / BL-04 / SUBSTATION",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "630mm\u00b2",
+        "length_m": 481.0,
+        "from_location": "MV-3 / BL-04 / SUBSTATION",
+        "to_location": "MV-3 / BL-04 / SUBSTATION"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "a973d78f-9432-4084-99d5-e8bed0f399ff",
+      "name": "DC-CABLE-MV-4-/-BL-16-/-BL-15",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-16 / BL-15 to MV-4 / BL-16 / BL-15",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "240mm\u00b2",
+        "length_m": 502.0,
+        "from_location": "MV-4 / BL-16 / BL-15",
+        "to_location": "MV-4 / BL-16 / BL-15"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "0ed0024f-dc31-4b43-896d-3c8538daebfd",
+      "name": "DC-CABLE-MV-4-/-BL-15-/-BL-14",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-15 / BL-14 to MV-4 / BL-15 / BL-14",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "300mm\u00b2",
+        "length_m": 397.0,
+        "from_location": "MV-4 / BL-15 / BL-14",
+        "to_location": "MV-4 / BL-15 / BL-14"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "ceae2454-ab97-490c-9cc0-60e665a60569",
+      "name": "DC-CABLE-MV-4-/-BL-14-/-BL-06",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-14 / BL-06 to MV-4 / BL-14 / BL-06",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "500mm\u00b2",
+        "length_m": 1273.0,
+        "from_location": "MV-4 / BL-14 / BL-06",
+        "to_location": "MV-4 / BL-14 / BL-06"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "9ee5c353-2d59-495d-9955-b4f3caa95c7d",
+      "name": "DC-CABLE-MV-4-/-BL-06-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-06 / SUBSTATION to MV-4 / BL-06 / SUBSTATION",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "630mm\u00b2",
+        "length_m": 1307.0,
+        "from_location": "MV-4 / BL-06 / SUBSTATION",
+        "to_location": "MV-4 / BL-06 / SUBSTATION"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "c9cb4372-d6ab-40c5-b7ac-c543fd1f6f6b",
+      "name": "DC-CABLE-MV-1-/-BL-08-/-BL-07",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-08 / BL-07 to MV-1 / BL-08 / BL-07",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-1 / BL-08 / BL-07",
+        "to_location": "MV-1 / BL-08 / BL-07"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "733eb811-d936-44ea-ab6e-62f57ded5aaa",
+      "name": "DC-CABLE-MV-1-/-BL-07-/-BL-02",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-07 / BL-02 to MV-1 / BL-07 / BL-02",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-1 / BL-07 / BL-02",
+        "to_location": "MV-1 / BL-07 / BL-02"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "a3c348d6-14b8-436a-8059-36e5cf268723",
+      "name": "DC-CABLE-MV-1-/-BL-02-/-BL-01",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-02 / BL-01 to MV-1 / BL-02 / BL-01",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-1 / BL-02 / BL-01",
+        "to_location": "MV-1 / BL-02 / BL-01"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "eef7b413-0c39-48ee-bf5a-9d44107cb595",
+      "name": "DC-CABLE-MV-1-/-BL-01-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-01 / SUBSTATION to MV-1 / BL-01 / SUBSTATION",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-1 / BL-01 / SUBSTATION",
+        "to_location": "MV-1 / BL-01 / SUBSTATION"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "04ad323a-e5a8-4b08-bcfe-1ab3ccff659e",
+      "name": "DC-CABLE-MV-2-/-BL-10-/-BL-09",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-10 / BL-09 to MV-2 / BL-10 / BL-09",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-2 / BL-10 / BL-09",
+        "to_location": "MV-2 / BL-10 / BL-09"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "009dd6cc-b0e4-4022-8921-d151050af5fe",
+      "name": "DC-CABLE-MV-2-/-BL-09-/-BL-05",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-09 / BL-05 to MV-2 / BL-09 / BL-05",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-2 / BL-09 / BL-05",
+        "to_location": "MV-2 / BL-09 / BL-05"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "38be7081-7ea7-4e88-b871-9693d04c692f",
+      "name": "DC-CABLE-MV-2-/-BL-05-/-BL-03",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-05 / BL-03 to MV-2 / BL-05 / BL-03",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-2 / BL-05 / BL-03",
+        "to_location": "MV-2 / BL-05 / BL-03"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "f64e9db9-3d8d-4727-85ea-df783fa34c57",
+      "name": "DC-CABLE-MV-2-/-BL-03-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-03 / SUBSTATION to MV-2 / BL-03 / SUBSTATION",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-2 / BL-03 / SUBSTATION",
+        "to_location": "MV-2 / BL-03 / SUBSTATION"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "b541f841-5b26-4256-af9b-e50f3222cb52",
+      "name": "DC-CABLE-MV-3-/-BL-13-/-BL-12",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-13 / BL-12 to MV-3 / BL-13 / BL-12",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-3 / BL-13 / BL-12",
+        "to_location": "MV-3 / BL-13 / BL-12"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "83fc56d3-8d6c-4d47-bc6b-dcb0710e6adf",
+      "name": "DC-CABLE-MV-3-/-BL-12-/-BL-11",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-12 / BL-11 to MV-3 / BL-12 / BL-11",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-3 / BL-12 / BL-11",
+        "to_location": "MV-3 / BL-12 / BL-11"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "0b60dfc9-7863-4939-81a1-7befaa3580db",
+      "name": "DC-CABLE-MV-3-/-BL-11-/-BL-04",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-11 / BL-04 to MV-3 / BL-11 / BL-04",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-3 / BL-11 / BL-04",
+        "to_location": "MV-3 / BL-11 / BL-04"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "bba5ca12-441f-4f0b-a14b-70d39faf1362",
+      "name": "DC-CABLE-MV-3-/-BL-04-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-04 / SUBSTATION to MV-3 / BL-04 / SUBSTATION",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-3 / BL-04 / SUBSTATION",
+        "to_location": "MV-3 / BL-04 / SUBSTATION"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "c53a52b1-1ba4-43f9-aef7-43f015dba69f",
+      "name": "DC-CABLE-MV-4-/-BL-16-/-BL-15",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-16 / BL-15 to MV-4 / BL-16 / BL-15",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-4 / BL-16 / BL-15",
+        "to_location": "MV-4 / BL-16 / BL-15"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "72a5abfb-b098-4854-8a18-fd2fc2619331",
+      "name": "DC-CABLE-MV-4-/-BL-15-/-BL-14",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-15 / BL-14 to MV-4 / BL-15 / BL-14",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-4 / BL-15 / BL-14",
+        "to_location": "MV-4 / BL-15 / BL-14"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "1bba8afc-e0fb-4396-9391-123b5781e0a8",
+      "name": "DC-CABLE-MV-4-/-BL-14-/-BL-06",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-14 / BL-06 to MV-4 / BL-14 / BL-06",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-4 / BL-14 / BL-06",
+        "to_location": "MV-4 / BL-14 / BL-06"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "c1369a60-d79f-4fcd-ad95-5cc6f3cd3b2b",
+      "name": "DC-CABLE-MV-4-/-BL-06-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-06 / SUBSTATION to MV-4 / BL-06 / SUBSTATION",
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-4 / BL-06 / SUBSTATION",
+        "to_location": "MV-4 / BL-06 / SUBSTATION"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    }
+  ]
+}

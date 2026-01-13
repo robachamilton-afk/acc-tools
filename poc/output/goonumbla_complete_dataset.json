@@ -1,0 +1,1302 @@
+{
+  "project": "Goonumbla Solar Farm",
+  "total_assets": 77,
+  "total_bulk_materials": 10,
+  "assets": [
+    {
+      "id": "472a4763-e73d-4946-b422-ef5b72f5be53",
+      "name": "INV-CV.FO.IS1",
+      "category": "Electrical > Inverters > String Inverters",
+      "description": "2.75 MW INVERTER-TRANSFORMER FOUNDATION",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "rated_power_kw": 2.75,
+        "total_from_bom": 1.0
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "81aa9eaa-ba82-4eb7-900f-ab09c163cd01",
+      "name": "INV-nan",
+      "category": "Electrical > Inverters > String Inverters",
+      "description": "UD. Construction of reinforced concrete foundation for 2.75 MVPS Station by SMA. Including: excavation, backfilling, formworks, concrete and reinforcement. Foundation fully executed.\nAccording to Specifications GOO-ISE-CV-SPE-0003 and Drawing GOO-ISE",
+      "manufacturer": "SMA",
+      "model": "SPE-0003",
+      "specifications": {
+        "rated_power_kw": null,
+        "total_from_bom": NaN
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "d80d8409-480e-42b6-87f6-7c90a81c268a",
+      "name": "INV-CV.FO.IS2",
+      "category": "Electrical > Inverters > String Inverters",
+      "description": "5.5 MW INVERTER-TRANSFORMER FOUNDATION",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "rated_power_kw": 5.5,
+        "total_from_bom": 15.0
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "e7c93a71-3e9c-4d2a-8571-6d91d72ce75a",
+      "name": "INV-nan",
+      "category": "Electrical > Inverters > String Inverters",
+      "description": "UD. Construction of reinforced concrete foundation for 5.5 MVPS Station by SMA. Including: excavation, backfilling, formworks, concrete and reinforcement. Foundation fully executed.\nAccording to Specifications GOO-ISE-CV-SPE-0003 and Drawing GOO-ISE-",
+      "manufacturer": "SMA",
+      "model": "SPE-0003",
+      "specifications": {
+        "rated_power_kw": null,
+        "total_from_bom": NaN
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "30abebec-495e-48ad-992c-d8521c821f81",
+      "name": "TRK-CV.FO.TRF",
+      "category": "Solar > Trackers > Single-Axis Trackers",
+      "description": "TRACKER STRUCTURE FOUNDATION",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {},
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "304d93be-c3f2-4f32-9e0e-ae4e3627f770",
+      "name": "INV-CV.SL.ITS",
+      "category": "Electrical > Inverters > String Inverters",
+      "description": "SEALING OF CONDUITS - POWER INVERTER TRANSFORMER",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "rated_power_kw": null,
+        "total_from_bom": 16.0
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "97faa136-30bc-4fb1-a35a-1963affd40b6",
+      "name": "INV-nan",
+      "category": "Electrical > Inverters > String Inverters",
+      "description": "UD. Sealing all conduits of the Power Inverter Trasnformer with appropriate foam. Including supply of foam to seal the ducts and all necessary material to execute the work. Including inverter inputs, LV board inputs and outputs, RMU inputs and output",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "rated_power_kw": null,
+        "total_from_bom": NaN
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "bf6c7003-11b5-4005-a2df-437a1b4ce67b",
+      "name": "TRK-MC.ST.SP",
+      "category": "Solar > Trackers > Single-Axis Trackers",
+      "description": "TRACKER SYSTEM SUPPLY",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {},
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "0858a53f-3163-4f5d-83a6-562e93e0b862",
+      "name": "TRK-nan",
+      "category": "Solar > Trackers > Single-Axis Trackers",
+      "description": "UD. Supply of one-axis trackers, model MONOLINE 3H and manufactured by PVH, with ninety-three (93) modules per tracker. Defined by the total number of trackers.\nIncluding all necessary components and elements for a proper and safe assembly and instal",
+      "manufacturer": "PVH",
+      "model": null,
+      "specifications": {},
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "1e44abfc-f2b6-45e9-9d6f-68e64ce7354b",
+      "name": "TRK-MC.ST.IN",
+      "category": "Solar > Trackers > Single-Axis Trackers",
+      "description": "TRACKER SYSTEM INSTALLATION",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {},
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "ff07646d-848f-478c-8e70-c849ba6f9b49",
+      "name": "TRK-nan",
+      "category": "Solar > Trackers > Single-Axis Trackers",
+      "description": "UD. Installation of one-axis trackers, model MONOLINE 3H and manufactured by PVH, with ninety-three (93) modules per row. Defined by the total number of rows.\nIncluding all necessary components and elements for a proper and safe assembly and installa",
+      "manufacturer": "PVH",
+      "model": null,
+      "specifications": {},
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "e8296852-e7d7-489e-b91a-4f3eaca5ee2a",
+      "name": "TRK-nan",
+      "category": "Solar > Trackers > Single-Axis Trackers",
+      "description": "UD. Assembly of DC Box in the steel support or tracker plie. Set fully assembled. According to Drawing GOO-ISE-CV-DRW-0015-01, GOO-ISE-CV-DRW-0015-02, GOO-ISE-CV-DRW-0015-03, GOO-ISE-CV-DRW-0015-04, GOO-ISE-CV-DRW-0015-05\n",
+      "manufacturer": null,
+      "model": "DRW-0015-01",
+      "specifications": {},
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "ae68a474-ff9a-4c2e-9a6b-153c1a33ea90",
+      "name": "INV-nan",
+      "category": "Electrical > Inverters > String Inverters",
+      "description": "UD. Supply of aluminium LV bi-metallic compression lugs (metric M12), single hole, for conductor cross-section of 185mm\u00b2 Al and voltage level 1,500V, for connection of the ARRAY Cable to the corresponding DC Box or Inverter.\nAccording to Specificatio",
+      "manufacturer": null,
+      "model": "SPE-0008",
+      "specifications": {
+        "rated_power_kw": null,
+        "total_from_bom": NaN
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "0d8b3414-33e9-449f-a38e-275a9b2558c9",
+      "name": "INV-nan",
+      "category": "Electrical > Inverters > String Inverters",
+      "description": "UD. Supply of aluminium LV bi-metallic compression lugs (metric M12), single hole, for conductor cross-section of 300mm\u00b2 Al and voltage level 1,500V, for connection of the ARRAY Cable to the corresponding DC Box or Inverter.\nAccording to Specificatio",
+      "manufacturer": null,
+      "model": "SPE-0008",
+      "specifications": {
+        "rated_power_kw": null,
+        "total_from_bom": NaN
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "fc66503f-7690-4240-8aaf-854d71049309",
+      "name": "INV-nan",
+      "category": "Electrical > Inverters > String Inverters",
+      "description": "UD. Supply of Power Station including: Inverters, MV/LV transformer, MV switchgears, auxiliary transformer, LV boards and auxiliary components. According to specification GOO-ISE-GE-SPE-0002_Power Inverter Station.\n",
+      "manufacturer": null,
+      "model": "SPE-0002",
+      "specifications": {
+        "rated_power_kw": null,
+        "total_from_bom": NaN
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "d804cb0b-9e00-4035-b4a6-ebe61ee13d5c",
+      "name": "INV-nan",
+      "category": "Electrical > Inverters > String Inverters",
+      "description": "ML. Laying of single core aluminium cable with section 185mm\u00b2 from the DC Box to the corresponding Inverter within the Power Station. Directly buried or in conduits along the sections specified in Drawings GOO-ISE-CV-DRW-0012-01/16, and Specification",
+      "manufacturer": null,
+      "model": "DRW-0012-01",
+      "specifications": {
+        "rated_power_kw": null,
+        "total_from_bom": NaN
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "b66307b3-b940-4072-aab2-0aec79e0b333",
+      "name": "INV-nan",
+      "category": "Electrical > Inverters > String Inverters",
+      "description": "ML. Laying of single core aluminium cable with section 300mm\u00b2 from the DC Box to the corresponding Inverter within the Power Station. Directly buried or in conduits along the sections specified in Drawings GOO-ISE-CV-DRW-0012-01/16, and Specification",
+      "manufacturer": null,
+      "model": "DRW-0012-01",
+      "specifications": {
+        "rated_power_kw": null,
+        "total_from_bom": NaN
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "1a267951-772c-45b5-84ae-dedc6d075758",
+      "name": "INV-EL.PV.IN.CAL",
+      "category": "Electrical > Inverters > String Inverters",
+      "description": "DC-BUS CABLE CONNECTION AT INVERTERS",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "rated_power_kw": null,
+        "total_from_bom": 503.0
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "c934b651-7098-44c4-84a6-377cb9b90e85",
+      "name": "INV-nan",
+      "category": "Electrical > Inverters > String Inverters",
+      "description": "UD. Connection of the DC-BUS cable (1x185mm\u00b2 Al / 1x300mm\u00b2 Al), both poles, to the corresponding input at the Inverter with bi-metallic terminal and determined tightening torque. The process includes the installation of the heat-shrink tube in the te",
+      "manufacturer": null,
+      "model": "SLD-0002-01",
+      "specifications": {
+        "rated_power_kw": null,
+        "total_from_bom": NaN
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "85f71e6b-250c-46a9-ba5f-cbd30dc5abce",
+      "name": "TRK-nan",
+      "category": "Solar > Trackers > Single-Axis Trackers",
+      "description": "UD. Installation of the Tracker Control Box (placed below Tracker motor) and related equipment, including the connection of all circuits. Measured the fully assembled and installed unit. Installation according to manufacturer Manual.\n",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {},
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "fa487712-3cf9-423f-8f95-c2df74116e0c",
+      "name": "TRK-nan",
+      "category": "Solar > Trackers > Single-Axis Trackers",
+      "description": "UD. Supply of earthing clamp for connection stranded bare copper wire 35mm\u00b2 to different structure. (Tracker post, Combox post, TBox post, Gateway post, CCTV post, Weather Station post)\nAccording to Drawing GOO-ISE-CV-DRW-0019_EARTHING SYSTEM DETAILS",
+      "manufacturer": null,
+      "model": "DRW-0019",
+      "specifications": {},
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "d59235ae-c578-495e-bd53-db04898322e2",
+      "name": "INV-GR.IN.INV",
+      "category": "Electrical > Inverters > String Inverters",
+      "description": "EARTHING CONDUCTOR POWER INVERTER STATIONS - INSTALLATION (BARE COPPER 95mm\u00b2)",
+      "manufacturer": null,
+      "model": "COPPER 95",
+      "specifications": {
+        "rated_power_kw": null,
+        "total_from_bom": 751.0
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "7dc4d6cc-248a-4e68-a0c6-c8a808d01c68",
+      "name": "INV-nan",
+      "category": "Electrical > Inverters > String Inverters",
+      "description": "ML. Installation of earthing electrode ring (bare stranded copper conductor 95mm\u00b2) at the Power Inverter Skids and O&M Building, including laying of cables with their appropriate length. Including connection to the main earthing system plate of the d",
+      "manufacturer": null,
+      "model": "DRW-0017",
+      "specifications": {
+        "rated_power_kw": null,
+        "total_from_bom": NaN
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "6d72df74-4070-4711-8334-9e6c162a7ca0",
+      "name": "TRK-GR.IN.STR",
+      "category": "Solar > Trackers > Single-Axis Trackers",
+      "description": "CONNECTION OF TRACKER STRUCTURE TO MEC",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {},
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "dd502357-21da-4990-a797-3cde43941bff",
+      "name": "INV-nan",
+      "category": "Electrical > Inverters > String Inverters",
+      "description": "UD. Measurement of the earthing resistance to ground for each Power Inverter Station earthing grid.\n",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "rated_power_kw": null,
+        "total_from_bom": NaN
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "4a6ed798-e64a-4b7f-89d9-8fd5a4a66252",
+      "name": "TRK-nan",
+      "category": "Solar > Trackers > Single-Axis Trackers",
+      "description": "ML. Laying of single mode fibre optic cable (twelve cores) for the Tracker and Combox communication radial between among Power Blocks. Installation directly buried in ground. \nAccording to Drawings GOO-ISE-IC-DRW-0001, GOO-ISE-CV-DRW-0008, GOO-ISE-CV",
+      "manufacturer": null,
+      "model": "DRW-0001",
+      "specifications": {},
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "5e096af9-d463-4fbf-81a4-ccb31bf5c627",
+      "name": "TRK-nan",
+      "category": "Solar > Trackers > Single-Axis Trackers",
+      "description": "UD. Complete assembly and installation of the Autonomous Weather Station (AWS), including:\n- Connection of the Ethernet cables from the Communication Box within the nearest Power Station.\n- Connection of the power supply (3x6mm\u00b2 Cu) from the nearest ",
+      "manufacturer": null,
+      "model": "DRW-0003-01",
+      "specifications": {},
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "d8a4936c-649f-4c52-b07b-5f1bfe14ea40",
+      "name": "TRK-SC.IN.SPVH",
+      "category": "Solar > Trackers > Single-Axis Trackers",
+      "description": "SCADA (TRACKER AND COMBOX RING) START UP",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {},
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "726e2f1b-c9e4-41cb-b7f3-9e7468c6fdcd",
+      "name": "TRK-nan",
+      "category": "Solar > Trackers > Single-Axis Trackers",
+      "description": " UD. Start up of the SCADA and monitoring system (tracker system and combox communication).\n",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {},
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-GE-RPT-0003_C1-Bill of Materials (BOM).xlsx"
+    },
+    {
+      "id": "419ea3c9-153c-4703-ab49-bd587c6672a3",
+      "name": "DC-CABLE-MV-1-/-BL-08-/-BL-07",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-08 / BL-07 to MV-1 / BL-08 / BL-07",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "240mm\u00b2",
+        "length_m": 460.0,
+        "from_location": "MV-1 / BL-08 / BL-07",
+        "to_location": "MV-1 / BL-08 / BL-07"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "cd9262ea-71b2-4a54-ad01-65a0c0ac5752",
+      "name": "DC-CABLE-MV-1-/-BL-07-/-BL-02",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-07 / BL-02 to MV-1 / BL-07 / BL-02",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "300mm\u00b2",
+        "length_m": 1390.0,
+        "from_location": "MV-1 / BL-07 / BL-02",
+        "to_location": "MV-1 / BL-07 / BL-02"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "59435f08-095a-4a95-9168-352b64fd38c2",
+      "name": "DC-CABLE-MV-1-/-BL-02-/-BL-01",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-02 / BL-01 to MV-1 / BL-02 / BL-01",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "500mm\u00b2",
+        "length_m": 603.0,
+        "from_location": "MV-1 / BL-02 / BL-01",
+        "to_location": "MV-1 / BL-02 / BL-01"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "f95a4e3d-74cd-4e62-b798-41bf6fd6e53b",
+      "name": "DC-CABLE-MV-1-/-BL-01-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-01 / SUBSTATION to MV-1 / BL-01 / SUBSTATION",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "630mm\u00b2",
+        "length_m": 342.0,
+        "from_location": "MV-1 / BL-01 / SUBSTATION",
+        "to_location": "MV-1 / BL-01 / SUBSTATION"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "d0cb9472-4020-4f28-bd10-d5fdb76221b9",
+      "name": "DC-CABLE-MV-2-/-BL-10-/-BL-09",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-10 / BL-09 to MV-2 / BL-10 / BL-09",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "240mm\u00b2",
+        "length_m": 514.0,
+        "from_location": "MV-2 / BL-10 / BL-09",
+        "to_location": "MV-2 / BL-10 / BL-09"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "390e090c-7afd-4539-b186-7114ac59dd3b",
+      "name": "DC-CABLE-MV-2-/-BL-09-/-BL-05",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-09 / BL-05 to MV-2 / BL-09 / BL-05",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "300mm\u00b2",
+        "length_m": 1552.0,
+        "from_location": "MV-2 / BL-09 / BL-05",
+        "to_location": "MV-2 / BL-09 / BL-05"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "28aee8e1-6d38-43f2-9e2d-c5cbb9c57262",
+      "name": "DC-CABLE-MV-2-/-BL-05-/-BL-03",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-05 / BL-03 to MV-2 / BL-05 / BL-03",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "500mm\u00b2",
+        "length_m": 641.0,
+        "from_location": "MV-2 / BL-05 / BL-03",
+        "to_location": "MV-2 / BL-05 / BL-03"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "c2d365ea-43f9-4cb0-a6b1-b4e75997edeb",
+      "name": "DC-CABLE-MV-2-/-BL-03-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-03 / SUBSTATION to MV-2 / BL-03 / SUBSTATION",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "630mm\u00b2",
+        "length_m": 593.0,
+        "from_location": "MV-2 / BL-03 / SUBSTATION",
+        "to_location": "MV-2 / BL-03 / SUBSTATION"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "7d2f8445-f868-42fb-af5e-1fc8a7438437",
+      "name": "DC-CABLE-MV-3-/-BL-13-/-BL-12",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-13 / BL-12 to MV-3 / BL-13 / BL-12",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "240mm\u00b2",
+        "length_m": 429.0,
+        "from_location": "MV-3 / BL-13 / BL-12",
+        "to_location": "MV-3 / BL-13 / BL-12"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "38385d98-ccff-4756-87a7-642ad2e68b26",
+      "name": "DC-CABLE-MV-3-/-BL-12-/-BL-11",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-12 / BL-11 to MV-3 / BL-12 / BL-11",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "300mm\u00b2",
+        "length_m": 389.0,
+        "from_location": "MV-3 / BL-12 / BL-11",
+        "to_location": "MV-3 / BL-12 / BL-11"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "c9fb72cb-de67-49f0-9474-30ac7af897b5",
+      "name": "DC-CABLE-MV-3-/-BL-11-/-BL-04",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-11 / BL-04 to MV-3 / BL-11 / BL-04",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "500mm\u00b2",
+        "length_m": 1412.0,
+        "from_location": "MV-3 / BL-11 / BL-04",
+        "to_location": "MV-3 / BL-11 / BL-04"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "5fed9fb4-84d9-4638-888a-143bfffaab90",
+      "name": "DC-CABLE-MV-3-/-BL-04-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-04 / SUBSTATION to MV-3 / BL-04 / SUBSTATION",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "630mm\u00b2",
+        "length_m": 481.0,
+        "from_location": "MV-3 / BL-04 / SUBSTATION",
+        "to_location": "MV-3 / BL-04 / SUBSTATION"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "1b848086-8598-40b6-b102-fe729cbfe6e7",
+      "name": "DC-CABLE-MV-4-/-BL-16-/-BL-15",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-16 / BL-15 to MV-4 / BL-16 / BL-15",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "240mm\u00b2",
+        "length_m": 502.0,
+        "from_location": "MV-4 / BL-16 / BL-15",
+        "to_location": "MV-4 / BL-16 / BL-15"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "894570db-994d-4b68-8311-7096c246d49b",
+      "name": "DC-CABLE-MV-4-/-BL-15-/-BL-14",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-15 / BL-14 to MV-4 / BL-15 / BL-14",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "300mm\u00b2",
+        "length_m": 397.0,
+        "from_location": "MV-4 / BL-15 / BL-14",
+        "to_location": "MV-4 / BL-15 / BL-14"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "c1223d88-9c68-44f1-99a8-a1e5c67bb9c3",
+      "name": "DC-CABLE-MV-4-/-BL-14-/-BL-06",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-14 / BL-06 to MV-4 / BL-14 / BL-06",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "500mm\u00b2",
+        "length_m": 1273.0,
+        "from_location": "MV-4 / BL-14 / BL-06",
+        "to_location": "MV-4 / BL-14 / BL-06"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "66ef9531-63cf-4b00-90a1-191c2642558c",
+      "name": "DC-CABLE-MV-4-/-BL-06-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-06 / SUBSTATION to MV-4 / BL-06 / SUBSTATION",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "630mm\u00b2",
+        "length_m": 1307.0,
+        "from_location": "MV-4 / BL-06 / SUBSTATION",
+        "to_location": "MV-4 / BL-06 / SUBSTATION"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "954f997b-543f-4486-a18f-d32e4613151e",
+      "name": "DC-CABLE-MV-1-/-BL-08-/-BL-07",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-08 / BL-07 to MV-1 / BL-08 / BL-07",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "240mm\u00b2",
+        "length_m": 460.0,
+        "from_location": "MV-1 / BL-08 / BL-07",
+        "to_location": "MV-1 / BL-08 / BL-07"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "a6066486-55f1-4e8e-96d1-ce40b882cc54",
+      "name": "DC-CABLE-MV-1-/-BL-07-/-BL-02",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-07 / BL-02 to MV-1 / BL-07 / BL-02",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "300mm\u00b2",
+        "length_m": 1390.0,
+        "from_location": "MV-1 / BL-07 / BL-02",
+        "to_location": "MV-1 / BL-07 / BL-02"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "1c7b2d00-2feb-4f14-a5b2-e3c105a6cec8",
+      "name": "DC-CABLE-MV-1-/-BL-02-/-BL-01",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-02 / BL-01 to MV-1 / BL-02 / BL-01",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "500mm\u00b2",
+        "length_m": 603.0,
+        "from_location": "MV-1 / BL-02 / BL-01",
+        "to_location": "MV-1 / BL-02 / BL-01"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "4928f521-720a-41f1-9b3a-16d4f0b2cae6",
+      "name": "DC-CABLE-MV-1-/-BL-01-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-01 / SUBSTATION to MV-1 / BL-01 / SUBSTATION",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "630mm\u00b2",
+        "length_m": 342.0,
+        "from_location": "MV-1 / BL-01 / SUBSTATION",
+        "to_location": "MV-1 / BL-01 / SUBSTATION"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "35a04d5d-344e-4daa-8f54-bb3ccd2f2569",
+      "name": "DC-CABLE-MV-2-/-BL-10-/-BL-09",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-10 / BL-09 to MV-2 / BL-10 / BL-09",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "240mm\u00b2",
+        "length_m": 514.0,
+        "from_location": "MV-2 / BL-10 / BL-09",
+        "to_location": "MV-2 / BL-10 / BL-09"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "a6d5722f-1575-4ec6-9d0c-31a98523a4ef",
+      "name": "DC-CABLE-MV-2-/-BL-09-/-BL-05",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-09 / BL-05 to MV-2 / BL-09 / BL-05",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "300mm\u00b2",
+        "length_m": 1552.0,
+        "from_location": "MV-2 / BL-09 / BL-05",
+        "to_location": "MV-2 / BL-09 / BL-05"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "c83323a6-703f-4467-8e57-8c42c6d83503",
+      "name": "DC-CABLE-MV-2-/-BL-05-/-BL-03",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-05 / BL-03 to MV-2 / BL-05 / BL-03",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "500mm\u00b2",
+        "length_m": 641.0,
+        "from_location": "MV-2 / BL-05 / BL-03",
+        "to_location": "MV-2 / BL-05 / BL-03"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "4ee0926f-7638-42d9-bdb5-ef0d19250f2c",
+      "name": "DC-CABLE-MV-2-/-BL-03-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-03 / SUBSTATION to MV-2 / BL-03 / SUBSTATION",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "630mm\u00b2",
+        "length_m": 593.0,
+        "from_location": "MV-2 / BL-03 / SUBSTATION",
+        "to_location": "MV-2 / BL-03 / SUBSTATION"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "990824c5-7721-4056-8235-f2117930b4f3",
+      "name": "DC-CABLE-MV-3-/-BL-13-/-BL-12",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-13 / BL-12 to MV-3 / BL-13 / BL-12",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "240mm\u00b2",
+        "length_m": 429.0,
+        "from_location": "MV-3 / BL-13 / BL-12",
+        "to_location": "MV-3 / BL-13 / BL-12"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "1f248a15-b4c3-4629-8a5b-6dda51ffd1c3",
+      "name": "DC-CABLE-MV-3-/-BL-12-/-BL-11",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-12 / BL-11 to MV-3 / BL-12 / BL-11",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "300mm\u00b2",
+        "length_m": 389.0,
+        "from_location": "MV-3 / BL-12 / BL-11",
+        "to_location": "MV-3 / BL-12 / BL-11"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "08d81cc4-a873-44f0-8c2f-ac3f40b758e1",
+      "name": "DC-CABLE-MV-3-/-BL-11-/-BL-04",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-11 / BL-04 to MV-3 / BL-11 / BL-04",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "500mm\u00b2",
+        "length_m": 1412.0,
+        "from_location": "MV-3 / BL-11 / BL-04",
+        "to_location": "MV-3 / BL-11 / BL-04"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "0e9d6562-036c-42e5-9145-bc9c2a29e8f5",
+      "name": "DC-CABLE-MV-3-/-BL-04-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-04 / SUBSTATION to MV-3 / BL-04 / SUBSTATION",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "630mm\u00b2",
+        "length_m": 481.0,
+        "from_location": "MV-3 / BL-04 / SUBSTATION",
+        "to_location": "MV-3 / BL-04 / SUBSTATION"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "87b4ea8f-60a1-4d84-acc6-34ebeb3eca49",
+      "name": "DC-CABLE-MV-4-/-BL-16-/-BL-15",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-16 / BL-15 to MV-4 / BL-16 / BL-15",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "240mm\u00b2",
+        "length_m": 502.0,
+        "from_location": "MV-4 / BL-16 / BL-15",
+        "to_location": "MV-4 / BL-16 / BL-15"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "93dddb72-70c3-444e-aa7a-c49dfb61461b",
+      "name": "DC-CABLE-MV-4-/-BL-15-/-BL-14",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-15 / BL-14 to MV-4 / BL-15 / BL-14",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "300mm\u00b2",
+        "length_m": 397.0,
+        "from_location": "MV-4 / BL-15 / BL-14",
+        "to_location": "MV-4 / BL-15 / BL-14"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "82678999-346a-437c-8b26-b2b7394d5eb6",
+      "name": "DC-CABLE-MV-4-/-BL-14-/-BL-06",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-14 / BL-06 to MV-4 / BL-14 / BL-06",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "500mm\u00b2",
+        "length_m": 1273.0,
+        "from_location": "MV-4 / BL-14 / BL-06",
+        "to_location": "MV-4 / BL-14 / BL-06"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "6e31bab2-4be9-483e-b8e7-f6910b9609a7",
+      "name": "DC-CABLE-MV-4-/-BL-06-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-06 / SUBSTATION to MV-4 / BL-06 / SUBSTATION",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": "630mm\u00b2",
+        "length_m": 1307.0,
+        "from_location": "MV-4 / BL-06 / SUBSTATION",
+        "to_location": "MV-4 / BL-06 / SUBSTATION"
+      },
+      "data_completeness": "FULL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "2007c945-9621-4c52-bd34-77ded2e0b2f4",
+      "name": "DC-CABLE-MV-1-/-BL-08-/-BL-07",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-08 / BL-07 to MV-1 / BL-08 / BL-07",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-1 / BL-08 / BL-07",
+        "to_location": "MV-1 / BL-08 / BL-07"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "3b5b8f9b-5a55-437f-bbe5-769cd6f33eff",
+      "name": "DC-CABLE-MV-1-/-BL-07-/-BL-02",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-07 / BL-02 to MV-1 / BL-07 / BL-02",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-1 / BL-07 / BL-02",
+        "to_location": "MV-1 / BL-07 / BL-02"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "8ff84f44-b688-419e-a501-57c74b018ece",
+      "name": "DC-CABLE-MV-1-/-BL-02-/-BL-01",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-02 / BL-01 to MV-1 / BL-02 / BL-01",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-1 / BL-02 / BL-01",
+        "to_location": "MV-1 / BL-02 / BL-01"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "1032f191-724c-46d0-849c-ce5ebcb5017f",
+      "name": "DC-CABLE-MV-1-/-BL-01-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-1 / BL-01 / SUBSTATION to MV-1 / BL-01 / SUBSTATION",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-1 / BL-01 / SUBSTATION",
+        "to_location": "MV-1 / BL-01 / SUBSTATION"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "6574c82c-a483-45ea-8d0c-9cda6aaddf5b",
+      "name": "DC-CABLE-MV-2-/-BL-10-/-BL-09",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-10 / BL-09 to MV-2 / BL-10 / BL-09",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-2 / BL-10 / BL-09",
+        "to_location": "MV-2 / BL-10 / BL-09"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "626cb59c-6040-4afc-9de9-09e349c19fe1",
+      "name": "DC-CABLE-MV-2-/-BL-09-/-BL-05",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-09 / BL-05 to MV-2 / BL-09 / BL-05",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-2 / BL-09 / BL-05",
+        "to_location": "MV-2 / BL-09 / BL-05"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "8fa8f472-2f86-416b-a15a-95d9a200f76b",
+      "name": "DC-CABLE-MV-2-/-BL-05-/-BL-03",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-05 / BL-03 to MV-2 / BL-05 / BL-03",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-2 / BL-05 / BL-03",
+        "to_location": "MV-2 / BL-05 / BL-03"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "cf40c38e-9eb4-49f8-a5dd-3a3050f07e93",
+      "name": "DC-CABLE-MV-2-/-BL-03-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-2 / BL-03 / SUBSTATION to MV-2 / BL-03 / SUBSTATION",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-2 / BL-03 / SUBSTATION",
+        "to_location": "MV-2 / BL-03 / SUBSTATION"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "74bd8f6c-5364-480f-a341-14218076f10f",
+      "name": "DC-CABLE-MV-3-/-BL-13-/-BL-12",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-13 / BL-12 to MV-3 / BL-13 / BL-12",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-3 / BL-13 / BL-12",
+        "to_location": "MV-3 / BL-13 / BL-12"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "031bf69d-ba33-4e23-a648-05ba96055243",
+      "name": "DC-CABLE-MV-3-/-BL-12-/-BL-11",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-12 / BL-11 to MV-3 / BL-12 / BL-11",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-3 / BL-12 / BL-11",
+        "to_location": "MV-3 / BL-12 / BL-11"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "449a39e1-47cd-4a56-9710-e2979503450f",
+      "name": "DC-CABLE-MV-3-/-BL-11-/-BL-04",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-11 / BL-04 to MV-3 / BL-11 / BL-04",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-3 / BL-11 / BL-04",
+        "to_location": "MV-3 / BL-11 / BL-04"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "6457e6fe-f90c-429c-8bc3-25659ad3e3b4",
+      "name": "DC-CABLE-MV-3-/-BL-04-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-3 / BL-04 / SUBSTATION to MV-3 / BL-04 / SUBSTATION",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-3 / BL-04 / SUBSTATION",
+        "to_location": "MV-3 / BL-04 / SUBSTATION"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "0e6561c6-a3da-4cad-92d4-63b17e7aa550",
+      "name": "DC-CABLE-MV-4-/-BL-16-/-BL-15",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-16 / BL-15 to MV-4 / BL-16 / BL-15",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-4 / BL-16 / BL-15",
+        "to_location": "MV-4 / BL-16 / BL-15"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "da5e84cb-3fd1-4ead-adc3-1c297a736041",
+      "name": "DC-CABLE-MV-4-/-BL-15-/-BL-14",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-15 / BL-14 to MV-4 / BL-15 / BL-14",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-4 / BL-15 / BL-14",
+        "to_location": "MV-4 / BL-15 / BL-14"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "eae2d775-e9b7-452b-a6fd-6e851cea1b19",
+      "name": "DC-CABLE-MV-4-/-BL-14-/-BL-06",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-14 / BL-06 to MV-4 / BL-14 / BL-06",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-4 / BL-14 / BL-06",
+        "to_location": "MV-4 / BL-14 / BL-06"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    },
+    {
+      "id": "b83b3e79-5f83-43fb-a559-572026a0a8fa",
+      "name": "DC-CABLE-MV-4-/-BL-06-/-SUBSTATION",
+      "category": "Electrical > Cables > DC Cables",
+      "description": "DC Cable from MV-4 / BL-06 / SUBSTATION to MV-4 / BL-06 / SUBSTATION",
+      "manufacturer": null,
+      "model": null,
+      "specifications": {
+        "cable_type": "DC Cable",
+        "conductor_size": null,
+        "length_m": null,
+        "from_location": "MV-4 / BL-06 / SUBSTATION",
+        "to_location": "MV-4 / BL-06 / SUBSTATION"
+      },
+      "data_completeness": "PARTIAL",
+      "extraction_source": "GOO-ISE-EL-CAL-0001-C1_Medium Voltage Calculation.pdf"
+    }
+  ],
+  "bulk_materials": [
+    {
+      "material_type": "PV Modules",
+      "quantity": NaN,
+      "unit": "units",
+      "description": "M2. Clearing and grubbing the ground with bushes, with mechanical means. Includes the necessary work to remove from the area shrubs, small plants, stumps, brush, fallen woods, debris, rubbish or any other existing material, to a depth no less than th",
+      "specifications": {
+        "manufacturer": "SMA",
+        "model": null,
+        "rated_power_w": null
+      }
+    },
+    {
+      "material_type": "PV Modules",
+      "quantity": NaN,
+      "unit": "units",
+      "description": "M2. Clearing and grubbing the ground with bushes, with mechanical means. Includes the necessary work to remove from the area shrubs, small plants, stumps, brush, fallen woods, debris, rubbish or any other existing material, to a depth no less than th",
+      "specifications": {
+        "manufacturer": "SMA",
+        "model": "SPE-0005",
+        "rated_power_w": null
+      }
+    },
+    {
+      "material_type": "PV Modules",
+      "quantity": NaN,
+      "unit": "units",
+      "description": "PHOTOVOLTAIC MODULES",
+      "specifications": {
+        "manufacturer": null,
+        "model": null,
+        "rated_power_w": null
+      }
+    },
+    {
+      "material_type": "PV Modules",
+      "quantity": 269908.0,
+      "unit": "units",
+      "description": "PHOTOVOLTAIC MODULES SUPPLY",
+      "specifications": {
+        "manufacturer": null,
+        "model": null,
+        "rated_power_w": null
+      }
+    },
+    {
+      "material_type": "PV Modules",
+      "quantity": NaN,
+      "unit": "units",
+      "description": "UD. Supply of photovoltaic modules with 330/335Wp peak power.\nAccording to Specification GOO-ISE-GE-SPE-0001_Photovoltaic Module\n\n",
+      "specifications": {
+        "manufacturer": null,
+        "model": "SPE-0001",
+        "rated_power_w": 335.0
+      }
+    },
+    {
+      "material_type": "PV Modules",
+      "quantity": 269235.0,
+      "unit": "units",
+      "description": "PHOTOVOLTAIC MODULES INSTALLATION",
+      "specifications": {
+        "manufacturer": null,
+        "model": null,
+        "rated_power_w": null
+      }
+    },
+    {
+      "material_type": "PV Modules",
+      "quantity": NaN,
+      "unit": "units",
+      "description": "UD. Installation of photovoltaic modules with 320Wp peak power.\nAccording to Specification GOO-ISE-GE-SPE-0001 and corresponding Drawings GOO-ISE-GE-DRW-0005.\nThe installation of the module will depend on the final Flash Test Results (on Site).\nThe a",
+      "specifications": {
+        "manufacturer": null,
+        "model": "SPE-0001",
+        "rated_power_w": 320.0
+      }
+    },
+    {
+      "material_type": "PV Modules",
+      "quantity": NaN,
+      "unit": "units",
+      "description": "UD. Supply of Solar Cable Clips for module cables tying\nAccording to specification: GOO-ISE-EL-SPE-0008_Electric Installation - LV Material.\n",
+      "specifications": {
+        "manufacturer": null,
+        "model": "SPE-0008",
+        "rated_power_w": null
+      }
+    },
+    {
+      "material_type": "PV Modules",
+      "quantity": 8685.0,
+      "unit": "units",
+      "description": "MODULE INTERCONNECTION",
+      "specifications": {
+        "manufacturer": null,
+        "model": null,
+        "rated_power_w": null
+      }
+    },
+    {
+      "material_type": "PV Modules",
+      "quantity": NaN,
+      "unit": "units",
+      "description": "UD. Module interconnection, in strings of 31 (thirty) modules, with the corresponding PV connectors (as specified by the manufacturer). The conductors shall be fixed to the structure using solar cable clips. Measured per completed connected string, a",
+      "specifications": {
+        "manufacturer": null,
+        "model": "DRW-0002-01",
+        "rated_power_w": null
+      }
+    }
+  ]
+}

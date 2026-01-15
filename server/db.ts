@@ -1,6 +1,15 @@
 import { eq } from "drizzle-orm";
 import { drizzle } from "drizzle-orm/mysql2";
-import { InsertUser, users } from "../drizzle/schema";
+import { 
+  InsertUser, 
+  users, 
+  extractionJobs, 
+  InsertExtractionJob,
+  assets,
+  InsertAsset,
+  documentReviews,
+  InsertDocumentReview
+} from "../drizzle/schema";
 import { ENV } from './_core/env';
 
 let _db: ReturnType<typeof drizzle> | null = null;
@@ -89,4 +98,78 @@ export async function getUserByOpenId(openId: string) {
   return result.length > 0 ? result[0] : undefined;
 }
 
-// TODO: add feature queries here as your schema grows.
+// Extraction Jobs
+export async function createExtractionJob(job: InsertExtractionJob) {
+  const db = await getDb();
+  if (!db) throw new Error("Database not available");
+  
+  const result = await db.insert(extractionJobs).values(job);
+  return result;
+}
+
+export async function getExtractionJobById(id: number) {
+  const db = await getDb();
+  if (!db) return undefined;
+  
+  const result = await db.select().from(extractionJobs).where(eq(extractionJobs.id, id)).limit(1);
+  return result[0];
+}
+
+export async function getExtractionJobsByUserId(userId: number) {
+  const db = await getDb();
+  if (!db) return [];
+  
+  return db.select().from(extractionJobs).where(eq(extractionJobs.userId, userId)).orderBy(extractionJobs.createdAt);
+}
+
+export async function updateExtractionJob(id: number, updates: Partial<InsertExtractionJob>) {
+  const db = await getDb();
+  if (!db) throw new Error("Database not available");
+  
+  await db.update(extractionJobs).set(updates).where(eq(extractionJobs.id, id));
+}
+
+// Assets
+export async function insertAssets(assetList: InsertAsset[]) {
+  const db = await getDb();
+  if (!db) throw new Error("Database not available");
+  
+  if (assetList.length === 0) return;
+  await db.insert(assets).values(assetList);
+}
+
+export async function getAssetsByJobId(jobId: number) {
+  const db = await getDb();
+  if (!db) return [];
+  
+  return db.select().from(assets).where(eq(assets.jobId, jobId)).orderBy(assets.extractedAt);
+}
+
+export async function updateAsset(id: number, updates: Partial<InsertAsset>) {
+  const db = await getDb();
+  if (!db) throw new Error("Database not available");
+  
+  await db.update(assets).set(updates).where(eq(assets.id, id));
+}
+
+export async function deleteAsset(id: number) {
+  const db = await getDb();
+  if (!db) throw new Error("Database not available");
+  
+  await db.delete(assets).where(eq(assets.id, id));
+}
+
+// Document Reviews
+export async function insertDocumentReview(review: InsertDocumentReview) {
+  const db = await getDb();
+  if (!db) throw new Error("Database not available");
+  
+  await db.insert(documentReviews).values(review);
+}
+
+export async function getDocumentReviewsByJobId(jobId: number) {
+  const db = await getDb();
+  if (!db) return [];
+  
+  return db.select().from(documentReviews).where(eq(documentReviews.jobId, jobId));
+}

@@ -82,3 +82,11 @@
 - [ ] Fix ACC Excel export 500 error (Python CLI works, Node.js integration needs debugging)
 - [ ] Test complete export workflow (JSON, CSV, Excel)
 - [ ] Ensure consistent visual design across all pages
+
+
+## Phase 12: Header and Color Fixes (Jan 15, 2026)
+- [x] Fix header to say "MAIN CHARACTER ENERGY" as main title
+- [x] Add "ACC Asset Extractor" as subtitle below
+- [x] Review and fix header background color to match MCE website
+- [x] Check all color values against MCE STYLE_GUIDE.md
+- [x] Ensure proper contrast and visual hierarchy

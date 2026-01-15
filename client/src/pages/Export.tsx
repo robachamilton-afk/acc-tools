@@ -58,13 +58,37 @@ export default function Export() {
     toast.success("CSV export downloaded");
   };
 
+  const exportExcel = trpc.extraction.exportToExcel.useMutation({
+    onSuccess: (data) => {
+      // Convert base64 to blob and download
+      const byteCharacters = atob(data.data);
+      const byteNumbers = new Array(byteCharacters.length);
+      for (let i = 0; i < byteCharacters.length; i++) {
+        byteNumbers[i] = byteCharacters.charCodeAt(i);
+      }
+      const byteArray = new Uint8Array(byteNumbers);
+      const blob = new Blob([byteArray], { type: data.mimeType });
+      const url = window.URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = data.fileName;
+      document.body.appendChild(a);
+      a.click();
+      window.URL.revokeObjectURL(url);
+      document.body.removeChild(a);
+      toast.success("ACC Excel file downloaded successfully");
+    },
+    onError: (error) => {
+      toast.error(`Failed to generate Excel: ${error.message}`);
+    },
+  });
+
   const handleExportACCExcel = () => {
-    toast.info("ACC Excel export coming soon!");
-    // TODO: Implement ACC-compatible Excel generation
+    exportExcel.mutate({ jobId: jobIdNum });
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-white dark:from-gray-900 dark:to-gray-800">
+    <div className="min-h-screen bg-gradient-to-br from-slate-50 to-white dark:from-gray-900 dark:to-gray-800">
       <div className="container max-w-5xl py-12">
         <div className="mb-8 flex items-center gap-4">
           <Button variant="ghost" size="icon" onClick={() => setLocation(`/dashboard/${jobId}`)}>
@@ -115,7 +139,12 @@ export default function Export() {
               </CardDescription>
             </CardHeader>
             <CardContent>
-              <Button onClick={handleExportACCExcel} size="lg" className="w-full">
+              <Button 
+                onClick={handleExportACCExcel} 
+                size="lg" 
+                className="w-full"
+                disabled={exportExcel.isPending || !assets || assets.length === 0}
+              >
                 <Download className="mr-2 h-4 w-4" />
                 Download ACC Excel File
               </Button>

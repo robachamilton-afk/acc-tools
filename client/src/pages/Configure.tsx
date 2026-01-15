@@ -47,7 +47,7 @@ export default function Configure() {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-white dark:from-gray-900 dark:to-gray-800">
+    <div className="min-h-screen bg-gradient-to-br from-slate-50 to-white dark:from-gray-900 dark:to-gray-800">
       <div className="container max-w-4xl py-12">
         <div className="mb-8">
           <h1 className="text-4xl font-bold text-foreground mb-2">ACC Asset Extractor</h1>
@@ -58,7 +58,7 @@ export default function Configure() {
 
         <div className="grid gap-6">
           {/* Demo Data Card */}
-          <Card className="border-primary/20 bg-gradient-to-br from-blue-50/50 to-white dark:from-blue-950/20 dark:to-card">
+          <Card className="border-primary/20 bg-gradient-to-br from-orange-50/50 to-white dark:from-orange-950/20 dark:to-card">
             <CardHeader>
               <div className="flex items-center gap-2">
                 <Sparkles className="h-5 w-5 text-primary" />

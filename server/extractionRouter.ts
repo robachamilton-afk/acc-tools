@@ -4,6 +4,8 @@ import { protectedProcedure, router } from "./_core/trpc";
 import * as db from "./db";
 import { startExtraction, cancelExtraction } from "./extraction";
 import { generateDemoAssets, getDemoJobStats } from "./demoData";
+import { generateACCExcel, cleanupOldExports } from "./excelExport";
+import fs from "fs/promises";
 
 export const extractionRouter = router({
   // List all extraction jobs for current user
@@ -178,6 +180,42 @@ export const extractionRouter = router({
       await db.insertAssets(demoAssets);
 
       return { jobId, assetsCreated: demoAssets.length };
+    }),
+
+  // Export to ACC Excel
+  exportToExcel: protectedProcedure
+    .input(z.object({ jobId: z.number() }))
+    .mutation(async ({ input, ctx }) => {
+      const job = await db.getExtractionJobById(input.jobId);
+      if (!job) {
+        throw new TRPCError({ code: "NOT_FOUND", message: "Job not found" });
+      }
+      if (job.userId !== ctx.user.id) {
+        throw new TRPCError({ code: "FORBIDDEN", message: "Access denied" });
+      }
+
+      // Get all assets for this job
+      const assets = await db.getAssetsByJobId(input.jobId);
+
+      if (assets.length === 0) {
+        throw new TRPCError({ code: "BAD_REQUEST", message: "No assets found for this job" });
+      }
+
+      // Generate Excel file
+      const { filePath, fileName } = await generateACCExcel(assets, job.projectName);
+
+      // Read file as base64
+      const fileBuffer = await fs.readFile(filePath);
+      const base64 = fileBuffer.toString("base64");
+
+      // Clean up old exports
+      cleanupOldExports().catch(console.error);
+
+      return {
+        fileName,
+        data: base64,
+        mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      };
     }),
 
   // Get asset statistics

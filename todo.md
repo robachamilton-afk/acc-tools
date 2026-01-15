@@ -45,10 +45,10 @@
 - [ ] Add animations and transitions
 
 ## Phase 7: Testing & Deployment
-- [ ] Test complete extraction workflow
-- [ ] Verify real-time updates work correctly
-- [ ] Test all export formats
-- [ ] Create initial checkpoint
+- [x] Test complete extraction workflow
+- [x] Verify real-time updates work correctly
+- [x] Test all export formats
+- [x] Create initial checkpoint
 
 ## Phase 8: Demo Data Feature
 - [x] Create demo data generator with realistic solar farm assets
@@ -56,3 +56,29 @@
 - [x] Generate sample extraction job with completed status
 - [x] Populate with realistic asset categories (inverters, cables, transformers, etc.)
 - [x] Include varied confidence scores and locations
+
+
+## Phase 9: Dark Mode & Branding Updates
+- [ ] Change default theme to dark mode
+- [ ] Add MCE logo to application
+- [ ] Create header component with logo and branding
+- [ ] Add header to all pages
+- [ ] Ensure dark mode styling matches MCE website
+
+## Phase 10: ACC Excel Export
+- [ ] Create Excel generation helper using openpyxl
+- [ ] Implement ACC-compatible format with all required columns
+- [ ] Add tRPC procedure for Excel export
+- [ ] Add Excel download button to Export page
+- [ ] Test Excel file structure and compatibility
+
+## Phase 11: MCE Design Standards Update (Jan 15, 2026)
+- [x] Pull STYLE_GUIDE.md from mce-website GitHub repo
+- [x] Review MCE design standards (colors, typography, spacing, components)
+- [x] Update primary color from blue to orange (MCE brand color)
+- [x] Update all page gradients to use slate instead of blue
+- [x] Add backdrop blur to header navigation
+- [ ] Add hover effects and transitions to cards
+- [ ] Fix ACC Excel export 500 error (Python CLI works, Node.js integration needs debugging)
+- [ ] Test complete export workflow (JSON, CSV, Excel)
+- [ ] Ensure consistent visual design across all pages

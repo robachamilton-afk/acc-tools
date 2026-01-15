@@ -90,3 +90,11 @@
 - [x] Review and fix header background color to match MCE website
 - [x] Check all color values against MCE STYLE_GUIDE.md
 - [x] Ensure proper contrast and visual hierarchy
+
+
+## Phase 13: Fix Excel Export Python Version Issue (Jan 15, 2026)
+- [x] Change excelExport.ts to use /usr/bin/python3.11 (absolute path)
+- [x] Clear Python environment variables (PYTHONPATH, PYTHONHOME, VIRTUAL_ENV)
+- [x] Test Excel export with corrected Python version
+- [x] Verify Excel file downloads successfully in browser (9.2K valid file)
+- [x] Confirm ACC-compatible format is correct (Microsoft Excel 2007+)

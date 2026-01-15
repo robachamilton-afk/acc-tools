@@ -25,26 +25,34 @@ export async function generateACCExcel(
   const pythonScript = "/home/ubuntu/acc-tools/poc/acc_excel_cli.py";
   
   return new Promise((resolve, reject) => {
-    const process = spawn("python3", [
+    // Clear Python environment variables to avoid conflicts
+    const cleanEnv = { ...process.env };
+    delete cleanEnv.PYTHONPATH;
+    delete cleanEnv.PYTHONHOME;
+    delete cleanEnv.VIRTUAL_ENV;
+    
+    const pythonProcess = spawn("/usr/bin/python3.11", [
       pythonScript,
       jsonPath,
       excelPath,
       projectName
-    ]);
+    ], { env: cleanEnv });
     
     let stdout = "";
     let stderr = "";
-    
-    process.stdout.on("data", (data) => {
-      stdout += data.toString();
+      
+    pythonProcess.stdout.on("data", (data) => {    const output = data.toString();
+      stdout += output;
+      console.log("[Excel Export] Python stdout:", output);
     });
     
     process.stderr.on("data", (data) => {
-      stderr += data.toString();
+      const error = data.toString();
+      stderr += error;
+      console.error("[Excel Export] Python stderr:", error);
     });
     
-    process.on("close", async (code) => {
-      // Clean up JSON file
+    pythonProcess.on("close", async (code) => {      // Clean up JSON file
       try {
         await fs.unlink(jsonPath);
       } catch (err) {
@@ -52,6 +60,9 @@ export async function generateACCExcel(
       }
       
       if (code !== 0) {
+        console.error("[Excel Export] Process exited with code", code);
+        console.error("[Excel Export] stderr:", stderr);
+        console.error("[Excel Export] stdout:", stdout);
         reject(new Error(`Excel generation failed: ${stderr}`));
         return;
       }

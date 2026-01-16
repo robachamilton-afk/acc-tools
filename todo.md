@@ -98,3 +98,16 @@
 - [x] Test Excel export with corrected Python version
 - [x] Verify Excel file downloads successfully in browser (9.2K valid file)
 - [x] Confirm ACC-compatible format is correct (Microsoft Excel 2007+)
+
+
+## Phase 14: GitHub Push and Ollama Configuration (Jan 15, 2026)
+- [x] Create comprehensive README.md with setup instructions
+- [x] Add ENV_TEMPLATE.md with required environment variables
+- [x] Configure Ollama integration (Qwen2.5:14b for extraction, mistral:7b for chat)
+- [x] Create server/_core/ollama.ts module for local LLM
+- [x] Add OLLAMA_SETUP.md with detailed configuration guide
+- [ ] Copy acc-asset-extractor to mce-tools/tools/acc-asset-extractor/
+- [ ] Migrate ACC docs from acc-tools to mce-tools/docs/acc/
+- [ ] Copy Python CLI scripts to mce-tools/tools/acc-asset-extractor/scripts/
+- [ ] Update README files and documentation
+- [ ] Commit and push to mce-tools repository

@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { trpc } from "@/lib/trpc";
-import { ArrowLeft, Download, FileJson, FileSpreadsheet, FileText } from "lucide-react";
+import { ArrowLeft, Cloud, Download, FileJson, FileSpreadsheet, FileText } from "lucide-react";
 import { useLocation, useParams } from "wouter";
 import { toast } from "sonner";
 
@@ -128,6 +128,29 @@ export default function Export() {
 
         {/* Export Options */}
         <div className="grid gap-6">
+          <Card className="border-orange-500/50">
+            <CardHeader>
+              <div className="flex items-center gap-2">
+                <Cloud className="h-5 w-5 text-orange-500" />
+                <CardTitle>Push to ACC</CardTitle>
+              </div>
+              <CardDescription>
+                Upload assets directly to Autodesk Construction Cloud
+              </CardDescription>
+            </CardHeader>
+            <CardContent>
+              <Button 
+                onClick={() => toast.info("ACC integration coming soon! For now, use Excel export.")} 
+                size="lg" 
+                className="w-full bg-orange-500 hover:bg-orange-600"
+                disabled={!assets || assets.length === 0}
+              >
+                <Cloud className="mr-2 h-4 w-4" />
+                Push to ACC
+              </Button>
+            </CardContent>
+          </Card>
+
           <Card>
             <CardHeader>
               <div className="flex items-center gap-2">

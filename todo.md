@@ -111,3 +111,16 @@
 - [ ] Implement full OAuth flow with project selection dialog
 - [ ] Test ACC upload with real credentials
 - [ ] Update documentation with ACC integration guide
+
+
+## Phase 15: Complete ACC OAuth Workflow (Jan 20, 2026)
+- [x] Add OAuth callback route to handle authorization code
+- [x] Implement token storage (in-memory for now)
+- [x] Create project selection dialog component
+- [x] Add tRPC mutation to initiate OAuth flow
+- [x] Implement basic asset upload (placeholder)
+- [ ] Implement actual ACC API asset creation
+- [ ] Add progress tracking UI with real-time updates
+- [ ] Handle upload errors and retry logic
+- [ ] Test complete workflow with real ACC project
+- [ ] Update documentation with usage guide

@@ -4,10 +4,13 @@ import { trpc } from "@/lib/trpc";
 import { ArrowLeft, Cloud, Download, FileJson, FileSpreadsheet, FileText } from "lucide-react";
 import { useLocation, useParams } from "wouter";
 import { toast } from "sonner";
+import { ACCProjectDialog } from "@/components/ACCProjectDialog";
+import { useState } from "react";
 
 export default function Export() {
   const { jobId } = useParams();
   const [, setLocation] = useLocation();
+  const [showACCDialog, setShowACCDialog] = useState(false);
 
   const jobIdNum = parseInt(jobId || "0");
   const { data: job } = trpc.extraction.getJob.useQuery({ jobId: jobIdNum });
@@ -140,7 +143,7 @@ export default function Export() {
             </CardHeader>
             <CardContent>
               <Button 
-                onClick={() => toast.info("ACC integration coming soon! For now, use Excel export.")} 
+                onClick={() => setShowACCDialog(true)} 
                 size="lg" 
                 className="w-full bg-orange-500 hover:bg-orange-600"
                 disabled={!assets || assets.length === 0}
@@ -240,6 +243,16 @@ export default function Export() {
           </Card>
         )}
       </div>
+
+      {/* ACC Project Dialog */}
+      <ACCProjectDialog
+        open={showACCDialog}
+        onOpenChange={setShowACCDialog}
+        jobId={jobIdNum}
+        onUploadComplete={() => {
+          toast.success("Assets uploaded successfully!");
+        }}
+      />
     </div>
   );
 }

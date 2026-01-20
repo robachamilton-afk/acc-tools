@@ -135,7 +135,14 @@ export async function insertAssets(assetList: InsertAsset[]) {
   if (!db) throw new Error("Database not available");
   
   if (assetList.length === 0) return;
-  await db.insert(assets).values(assetList);
+  
+  // Insert in batches to avoid MySQL limits
+  const BATCH_SIZE = 100;
+  for (let i = 0; i < assetList.length; i += BATCH_SIZE) {
+    const batch = assetList.slice(i, i + BATCH_SIZE);
+    await db.insert(assets).values(batch);
+    console.log(`[DB] Inserted batch ${Math.floor(i / BATCH_SIZE) + 1}/${Math.ceil(assetList.length / BATCH_SIZE)} (${batch.length} assets)`);
+  }
 }
 
 export async function getAssetsByJobId(jobId: number) {

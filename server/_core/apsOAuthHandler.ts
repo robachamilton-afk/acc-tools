@@ -22,7 +22,12 @@ export function setupAPSOAuthRoutes(app: any) {
     }
 
     try {
-      const redirectUri = `${req.protocol}://${req.get("host")}/api/acc/oauth/callback`;
+      // Use X-Forwarded-Proto and X-Forwarded-Host if available (Manus proxy)
+      const protocol = req.get("X-Forwarded-Proto") || req.protocol;
+      const host = req.get("X-Forwarded-Host") || req.get("host");
+      const redirectUri = `${protocol}://${host}/api/acc/oauth/callback`;
+      
+      console.log("[OAuth Callback] Redirect URI:", redirectUri);
       const tokens = await exchangeCodeForToken(code, redirectUri);
 
       // Store tokens (in production, use database with user ID)

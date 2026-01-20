@@ -9,6 +9,8 @@ import Configure from "./pages/Configure";
 import Dashboard from "./pages/Dashboard";
 import Validate from "./pages/Validate";
 import Export from "./pages/Export";
+import ACCCallback from "./pages/ACCCallback";
+import DebugLocations from "./pages/DebugLocations";
 
 function Router() {
   // make sure to consider if you need authentication for certain routes
@@ -20,6 +22,8 @@ function Router() {
       <Route path="/dashboard/:jobId" component={Dashboard} />
       <Route path="/validate/:jobId" component={Validate} />
       <Route path="/export/:jobId" component={Export} />
+      <Route path="/acc/callback" component={ACCCallback} />
+      <Route path="/debug/locations" component={DebugLocations} />
       <Route path={"/404"} component={NotFound} />
       {/* Final fallback route */}
       <Route component={NotFound} />

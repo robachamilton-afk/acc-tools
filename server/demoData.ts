@@ -13,7 +13,7 @@ export function generateDemoAssets(jobId: number): InsertAsset[] {
     assets.push({
       jobId,
       assetId: `BL-${blockId}`,
-      name: `Power Station Block ${blockId}`,
+      name: `BL-${blockId}`,
       category: "equipment",
       type: "Power Station",
       location: `Block ${blockId}`,
@@ -38,7 +38,7 @@ export function generateDemoAssets(jobId: number): InsertAsset[] {
       assets.push({
         jobId,
         assetId: `INV-${blockId}.${inv}`,
-        name: `Inverter ${inv} in Block ${blockId}`,
+        name: `INV-${blockId}.${inv}`,
         category: "equipment",
         type: "Central Inverter",
         location: `Block ${blockId}`,
@@ -63,7 +63,7 @@ export function generateDemoAssets(jobId: number): InsertAsset[] {
     assets.push({
       jobId,
       assetId: `TRF-${blockId}`,
-      name: `LV/MV Transformer Block ${blockId}`,
+        name: `TRF-${blockId}`,
       category: "equipment",
       type: "Transformer",
       location: `Block ${blockId}`,
@@ -86,7 +86,7 @@ export function generateDemoAssets(jobId: number): InsertAsset[] {
     assets.push({
       jobId,
       assetId: `RMU-${blockId}`,
-      name: `Ring Main Unit Block ${blockId}`,
+      name: `RMU-${blockId}`,
       category: "equipment",
       type: "Switchgear",
       location: `Block ${blockId}`,
@@ -117,7 +117,7 @@ export function generateDemoAssets(jobId: number): InsertAsset[] {
       assets.push({
         jobId,
         assetId: `MV-CABLE-L${block}`,
-        name: `MV Cable Line ${block}`,
+        name: `MV-CABLE-L${block}`,
         category: "cable",
         type: "MV Cable",
         location: `MV Line ${block}`,
@@ -136,14 +136,15 @@ export function generateDemoAssets(jobId: number): InsertAsset[] {
     });
   });
 
-  // DC Array Cables (sample - 50 cables)
-  for (let block = 1; block <= 10; block++) {
-    for (let cable = 1; cable <= 5; cable++) {
+  // DC Array Cables (expanded to 390 cables to reach 537 total)
+  // Each of 16 blocks has approximately 24 DC cables
+  for (let block = 1; block <= 16; block++) {
+    for (let cable = 1; cable <= 24; cable++) {
       const blockId = block.toString().padStart(2, "0");
       assets.push({
         jobId,
         assetId: `DC-ARRAY-${blockId}-${cable}`,
-        name: `DC Array Cable ${cable} Block ${blockId}`,
+        name: `DC-ARRAY-${blockId}-${cable.toString().padStart(2, '0')}`,
         category: "cable",
         type: "DC Cable",
         location: `Block ${blockId}`,
@@ -157,6 +158,34 @@ export function generateDemoAssets(jobId: number): InsertAsset[] {
         confidence: 78,
         sourceDocument: "GOO-ISE-EL-CAL-0002-C1_Low Voltage (DC) Calculation.pdf",
         sourceDocumentPath: "/design-docs/goonumbla/Calculations/DC_Calculation.pdf",
+        extractedAt: now,
+      });
+    }
+  }
+
+  // LV AC Cables (40 cables to reach exactly 537 total)
+  for (let block = 1; block <= 16; block++) {
+    // 10*2 + 6*3 = 38, need 40 so last 2 blocks get 3 cables each: 10*2 + 4*3 + 2*4 = 20+12+8=40
+    const actualCables = block <= 10 ? 2 : (block <= 14 ? 3 : 4);
+    for (let cable = 1; cable <= actualCables; cable++) {
+      const blockId = block.toString().padStart(2, "0");
+      assets.push({
+        jobId,
+        assetId: `AC-CABLE-${blockId}-${cable}`,
+        name: `AC-CABLE-${blockId}-${cable.toString().padStart(2, '0')}`,
+        category: "cable",
+        type: "LV AC Cable",
+        location: `Block ${blockId}`,
+        quantity: 1,
+        specifications: JSON.stringify({
+          size: "120mm²",
+          voltage: "600V AC",
+          type: "CU conductor",
+          installation: "Cable tray",
+        }),
+        confidence: 82,
+        sourceDocument: "GOO-ISE-EL-CAL-0003-C1_Low Voltage (AC) Calculation.pdf",
+        sourceDocumentPath: "/design-docs/goonumbla/Calculations/AC_Calculation.pdf",
         extractedAt: now,
       });
     }
@@ -210,14 +239,14 @@ export function getDemoJobStats() {
     totalDocuments: 206,
     reviewedDocuments: 206,
     extractedDocuments: 206,
-    totalAssets: 537,
+    totalAssets: 521,
     assetsByCategory: {
-      equipment: 97,
+      equipment: 81,
       cable: 440,
     },
     confidenceDistribution: {
       high: 113, // >90%
-      medium: 376, // 70-90%
+      medium: 360, // 70-90%
       low: 48, // <70%
     },
   };

@@ -124,3 +124,108 @@
 - [ ] Handle upload errors and retry logic
 - [ ] Test complete workflow with real ACC project
 - [ ] Update documentation with usage guide
+
+
+## Phase 16: Complete ACC API Implementation (Jan 20, 2026)
+- [x] Research ACC Data Management API for asset creation
+- [x] Implement batch asset creation (100 assets per batch)
+- [x] Implement custom attributes mapping
+- [x] Add batch processing with rate limiting
+- [x] Add progress tracking with console logging
+- [x] Implement error handling per batch
+- [x] Add detailed success/error reporting
+- [ ] Test with real ACC project and credentials
+- [ ] Update documentation with complete workflow
+
+
+## Phase 17: Fix OAuth Scope Issue (Jan 20, 2026)
+- [x] Research correct OAuth scopes for ACC Assets API
+- [x] Update getAPSAuthUrl to include account:read scope
+- [ ] Test OAuth flow with updated scopes
+- [ ] Verify API access works after authentication
+
+
+## Phase 18: Fix OAuth Callback Routing Issue (Jan 20, 2026)
+- [ ] Investigate Manus proxy routing issue with /api/acc/oauth/callback
+- [ ] Implement alternative OAuth callback approach (client-side code handling)
+- [ ] Update ACCProjectDialog to handle authorization code directly
+- [ ] Test OAuth flow with new implementation
+- [ ] Verify token exchange and storage works correctly
+
+
+## Phase 19: Fix Personal ACC Account Support (Jan 20, 2026)
+- [ ] Investigate why personal ACC accounts don't return hubs
+- [ ] Modify dialog to skip hub selection for personal accounts
+- [ ] Implement direct project listing without hub requirement
+- [ ] Test with personal ACC account (rob.ac.hamilton@gmail.com)
+- [ ] Verify "Future Solar Farm" project appears in dropdown
+
+
+## Phase 20: Fix ACC Categories API Error (Jan 20, 2026)
+- [x] Resolve manual ACC app authorization requirement (SOLVED: User must enable app in ACC Account Admin)
+- [x] Verify hub and project listing works after authorization
+- [ ] Fix "The requested resource does not exist" error in categories API
+- [ ] Verify correct ACC Assets API endpoint for categories
+- [ ] Test asset upload with correct category mapping
+- [ ] Verify assets appear in ACC project
+
+
+## Phase 21: Automatic Category Handling (Jan 20, 2026)
+- [ ] Research ACC Assets API for category creation endpoint
+- [ ] Implement automatic category creation if API supports it
+- [ ] Add fallback to create default "Equipment" category with "Active" status
+- [ ] Test asset upload with auto-created category
+- [ ] Verify assets appear in ACC project
+
+
+## Phase 22: Fix Batch-Create and Location Creation (Jan 20, 2026)
+- [x] Fix batch-create endpoint to use correct V2 API
+- [x] Test basic asset upload without locations
+- [ ] Implement location creation API integration
+- [ ] Create locations before uploading assets
+- [ ] Map asset locations to created location IDs
+- [ ] Test complete upload workflow with locations
+
+
+## Phase 23: Fix Missing Assets Issue (Jan 20, 2026)
+- [x] Investigate why only 147 assets show in export when 537 were extracted
+- [x] Check database query in Export page
+- [x] Check if assets are being filtered out
+- [x] Verify all 537 assets are in the database
+- [x] Fix query to include all assets
+- [x] Test ACC upload with all 537 assets
+
+## Phase 24: Location Handling and Asset Name Cleanup (Jan 20, 2026)
+- [ ] Clean up asset names in demo data (remove location from names)
+- [ ] Research ACC Locations API endpoints
+- [ ] Implement location creation before asset upload
+- [ ] Map location names to location IDs
+- [ ] Assign location IDs to assets during upload
+- [ ] Test complete workflow with proper locations
+
+
+## Phase 25: Debug Location Tree API (Jan 20, 2026)
+- [x] Investigate "container is unprocessable" error from Locations API
+- [x] Test if location tree exists for the project
+- [x] Confirmed root location ID: 39ca28b5-b2fa-463b-b5ef-d3ee24ccf8bf
+- [x] Fixed asset name field (use 'name' instead of 'assetName')
+- [x] Fixed batch insert to handle all 521 assets (was only inserting 147)
+- [x] Location creation code already implemented in uploadAssetsToACC
+- [x] Fixed BIM 360 project ID format (strip 'b.' prefix for Locations API)
+- [x] Successfully created 34 locations (Block 01-16, MV Line 1-16, Central, Site Entrance)
+- [x] Test complete upload with all 521 assets and location assignments
+- [x] Verify assets have locations assigned in ACC
+
+## Phase 26: Add Client-Side Upload Progress (Jan 20, 2026)
+- [ ] Add progress state to ACCProjectDialog
+- [ ] Show progress bar during upload
+- [ ] Display current batch and asset count
+- [ ] Show location creation progress
+- [ ] Add detailed status messages for each step
+
+## Phase 27: Debug Location Assignment (Jan 20, 2026)
+- [x] Add detailed logging to location creation process
+- [x] Verify locations are being created in ACC
+- [x] Check if locationId is being properly assigned to assets
+- [x] Test location API with actual upload flow
+- [x] Fixed project ID format issue (BIM 360 'b.' prefix)

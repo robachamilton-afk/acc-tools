@@ -3,7 +3,7 @@ import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } f
 import { Button } from "@/components/ui/button";
 import { Label } from "@/components/ui/label";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
-import { Loader2 } from "lucide-react";
+import { Loader2, Copy, Check } from "lucide-react";
 import { trpc } from "@/lib/trpc";
 import { toast } from "sonner";
 
@@ -19,18 +19,42 @@ export function ACCProjectDialog({ open, onOpenChange, jobId, onUploadComplete }
   const [selectedHub, setSelectedHub] = useState<string>("");
   const [selectedProject, setSelectedProject] = useState<string>("");
   const [isAuthenticating, setIsAuthenticating] = useState(false);
+  const [tokenCopied, setTokenCopied] = useState(false);
 
-  // Get OAuth URL
+  // Get OAuth URL with client-side callback
   const { data: authData } = trpc.acc.getAuthUrl.useQuery(
-    { redirectUri: window.location.origin + "/api/acc/oauth/callback" },
+    { redirectUri: window.location.origin + "/acc/callback" },
     { enabled: open && !accessToken }
   );
 
+  // Exchange code mutation
+  const exchangeCodeMutation = trpc.acc.exchangeCode.useMutation({
+    onSuccess: (tokens) => {
+      console.log("[ACC Auth] Token received:", tokens.access_token?.substring(0, 20) + "...");
+      setAccessToken(tokens.access_token);
+      setIsAuthenticating(false);
+      toast.success("Successfully authenticated with ACC!");
+    },
+    onError: (error) => {
+      setIsAuthenticating(false);
+      toast.error(`Authentication failed: ${error.message}`);
+    },
+  });
+
+  // Debug: Get raw API response
+  const { data: debugData } = trpc.acc.debugHubsRaw.useQuery(
+    { accessToken: accessToken! },
+    { enabled: !!accessToken }
+  );
+  console.log("[ACC Debug] Raw API response:", debugData);
+
   // List hubs
+  console.log("[ACC Dialog] Access token state:", accessToken ? "SET" : "NOT SET");
   const { data: hubs, isLoading: isLoadingHubs } = trpc.acc.listHubs.useQuery(
     { accessToken: accessToken! },
     { enabled: !!accessToken }
   );
+  console.log("[ACC Dialog] Hubs data:", hubs);
 
   // List projects
   const { data: projects, isLoading: isLoadingProjects } = trpc.acc.listProjects.useQuery(
@@ -41,7 +65,17 @@ export function ACCProjectDialog({ open, onOpenChange, jobId, onUploadComplete }
   // Upload mutation
   const uploadMutation = trpc.acc.uploadAssets.useMutation({
     onSuccess: (result) => {
-      toast.success(`Successfully uploaded ${result.count} assets to ACC!`);
+      if (result.success) {
+        toast.success(
+          `Successfully uploaded ${result.count} assets to ACC!${result.errors.length > 0 ? ` (${result.errors.length} batches had errors)` : ""}`,
+          { duration: 5000 }
+        );
+        if (result.errors.length > 0) {
+          console.error("Upload errors:", result.errors);
+        }
+      } else {
+        toast.error(`Upload failed: ${result.message}`);
+      }
       onUploadComplete();
       onOpenChange(false);
     },
@@ -66,22 +100,18 @@ export function ACCProjectDialog({ open, onOpenChange, jobId, onUploadComplete }
       `width=${width},height=${height},left=${left},top=${top}`
     );
 
-    // Listen for OAuth callback
+    // Listen for OAuth callback with authorization code
     const handleMessage = (event: MessageEvent) => {
-      if (event.data.type === "ACC_AUTH_SUCCESS") {
-        // Fetch the access token from the server
-        fetch("/api/acc/oauth/token")
-          .then((res) => res.json())
-          .then((data) => {
-            setAccessToken(data.accessToken);
-            setIsAuthenticating(false);
-            toast.success("Successfully authenticated with ACC!");
-          })
-          .catch(() => {
-            setIsAuthenticating(false);
-            toast.error("Failed to get access token");
-          });
-
+      if (event.data.type === "ACC_AUTH_SUCCESS" && event.data.code) {
+        // Exchange the authorization code for an access token
+        exchangeCodeMutation.mutate({
+          code: event.data.code,
+          redirectUri: window.location.origin + "/acc/callback",
+        });
+        window.removeEventListener("message", handleMessage);
+      } else if (event.data.type === "ACC_AUTH_ERROR") {
+        setIsAuthenticating(false);
+        toast.error(`Authentication error: ${event.data.error}`);
         window.removeEventListener("message", handleMessage);
       }
     };
@@ -99,8 +129,14 @@ export function ACCProjectDialog({ open, onOpenChange, jobId, onUploadComplete }
   };
 
   const handleUpload = () => {
-    if (!accessToken || !selectedProject) return;
+    console.log('[ACC Dialog] handleUpload called', { accessToken: !!accessToken, selectedProject, jobId });
+    
+    if (!accessToken || !selectedProject) {
+      console.log('[ACC Dialog] Upload blocked - missing token or project');
+      return;
+    }
 
+    console.log('[ACC Dialog] Calling uploadMutation.mutate...');
     uploadMutation.mutate({
       accessToken,
       projectId: selectedProject,
@@ -141,6 +177,24 @@ export function ACCProjectDialog({ open, onOpenChange, jobId, onUploadComplete }
             </div>
           ) : (
             <>
+              <div className="flex items-center gap-2 p-3 bg-muted rounded-lg mb-4">
+                <div className="flex-1 text-sm">
+                  <div className="font-medium mb-1">Access Token (for debugging)</div>
+                  <code className="text-xs break-all">{accessToken.substring(0, 40)}...</code>
+                </div>
+                <Button
+                  variant="outline"
+                  size="sm"
+                  onClick={() => {
+                    navigator.clipboard.writeText(accessToken);
+                    setTokenCopied(true);
+                    setTimeout(() => setTokenCopied(false), 2000);
+                    toast.success("Token copied to clipboard!");
+                  }}
+                >
+                  {tokenCopied ? <Check className="h-4 w-4" /> : <Copy className="h-4 w-4" />}
+                </Button>
+              </div>
               <div className="space-y-2">
                 <Label htmlFor="hub">Select Hub</Label>
                 <Select value={selectedHub} onValueChange={setSelectedHub} disabled={isLoadingHubs}>
